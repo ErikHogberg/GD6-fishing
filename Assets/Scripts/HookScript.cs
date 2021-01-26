@@ -21,9 +21,14 @@ public class HookScript : MonoBehaviour {
 
 	void Start() {
 		hookRenderer = GetComponent<SpriteRenderer>();
-		PlayerControllerScript.SetAlpha(hookRenderer, .1f);
-		PlayerControllerScript.SetAlpha(Rope, .1f);
-		PlayerControllerScript.SetAlpha(FishRenderer, .1f);
+		if (hookActive) {
+			PlayerControllerScript.SetAlpha(hookRenderer, 1f);
+			PlayerControllerScript.SetAlpha(Rope, 1f);
+		} else {
+			PlayerControllerScript.SetAlpha(hookRenderer, .1f);
+			PlayerControllerScript.SetAlpha(Rope, .1f);
+			PlayerControllerScript.SetAlpha(FishRenderer, .1f);
+		}
 	}
 
 	public HookScript GoLeft() {
@@ -96,7 +101,8 @@ public class HookScript : MonoBehaviour {
 	public void SetAlphaHigh(bool fishHooked = false) {
 		hookActive = true;
 		// lineActive = true;
-		PlayerControllerScript.SetAlpha(hookRenderer, 1f);
+		if (hookRenderer)
+			PlayerControllerScript.SetAlpha(hookRenderer, 1f);
 		if (fishHooked)
 			PlayerControllerScript.SetAlpha(FishRenderer, 1f);
 
