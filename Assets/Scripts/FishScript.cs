@@ -17,6 +17,7 @@ public class FishScript : MonoBehaviour {
 	public FishScript NextFish;
 	public HookScript HookToCross;
 	public bool CutLineOnCross = false;
+	// TODO: option to have uncatchable fish that can still cut lines
 
 	private SpriteRenderer fishRenderer;
 

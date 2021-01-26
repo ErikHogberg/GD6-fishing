@@ -461,6 +461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3659286358933119422}
   - component: {fileID: 3659286358933119361}
+  - component: {fileID: 929206229216483777}
   m_Layer: 0
   m_Name: fish lane
   m_TagString: Untagged
@@ -541,6 +542,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &929206229216483777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3659286358933119423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 031265c23f9707546894a760b756cc16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TickSpacing: 5
+  SpawnLocation: {fileID: 3659286358122443568}
 --- !u!1 &3659286358940143342
 GameObject:
   m_ObjectHideFlags: 0
@@ -721,7 +736,7 @@ MonoBehaviour:
   EnabledOnStart: 0
   CatchScore: 10
   TickSpacing: 5
-  NextFish: {fileID: 3659286358122443568}
+  NextFish: {fileID: 0}
   HookToCross: {fileID: 0}
   CutLineOnCross: 0
 --- !u!1 &3659286359113394281
@@ -1411,11 +1426,6 @@ PrefabInstance:
       objectReference: {fileID: 7437964217159544781}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a5af87450169eb544a28cfaf62dffa47, type: 3}
---- !u!4 &7437964218026926233 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6192608377012176518, guid: a5af87450169eb544a28cfaf62dffa47, type: 3}
-  m_PrefabInstance: {fileID: 3659286357989451295}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &7437964218026926232 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6192608377012176519, guid: a5af87450169eb544a28cfaf62dffa47, type: 3}
@@ -1427,6 +1437,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ae0e768fb0b53e4d9edf39d4b81f89e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!4 &7437964218026926233 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6192608377012176518, guid: a5af87450169eb544a28cfaf62dffa47, type: 3}
+  m_PrefabInstance: {fileID: 3659286357989451295}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3659286358248810699
 PrefabInstance:
   m_ObjectHideFlags: 0
