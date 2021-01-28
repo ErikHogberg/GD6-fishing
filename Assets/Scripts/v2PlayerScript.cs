@@ -20,6 +20,12 @@ public class v2PlayerScript : MonoBehaviour {
 	public bool FishHeld => fishHeld;
 	private int heldScore = 0;
 
+	public int BarrelScoreThreshold = 50;
+	public List<SpriteRenderer> Barrels;
+	public List<SpriteRenderer> Reels;
+
+	private int spareReels = 3;
+
 	// Start is called before the first frame update
 	void Start() {
 		MainInstance = this;
@@ -30,6 +36,12 @@ public class v2PlayerScript : MonoBehaviour {
 		PlayerControllerScript.SetAlpha(currentHook.Rope, 1f);
 		UpdateFishermenAlpha();
 		ScoreText?.SetText("Score: " + score);
+
+		foreach (SpriteRenderer barrel in Barrels) {
+			PlayerControllerScript.SetAlpha(barrel, .1f);
+		}
+
+		spareReels = Reels.Count;
 
 	}
 
@@ -86,10 +98,20 @@ public class v2PlayerScript : MonoBehaviour {
 	}
 
 	public void ResetGame() {
+
 		score = 0;
 		timer = TimeLimit;
 		UpdateFishermenAlpha();
 		ScoreText?.SetText("Score: " + score);
+		foreach (SpriteRenderer barrel in Barrels) {
+			PlayerControllerScript.SetAlpha(barrel, .1f);
+		}
+
+		spareReels = Reels.Count;
+		foreach (SpriteRenderer reel in Reels) {
+			PlayerControllerScript.SetAlpha(reel, 1f);
+		}
+
 	}
 
 	public void ResetHook() {
@@ -99,6 +121,13 @@ public class v2PlayerScript : MonoBehaviour {
 	public void AddScore(int newScore) {
 		score += newScore;
 		ScoreText?.SetText("Score: " + score);
+
+		int barrelsFilled = score / BarrelScoreThreshold;
+
+		for (int i = 0; i < Barrels.Count; i++) {
+			PlayerControllerScript.SetAlpha(Barrels[i], i < barrelsFilled ? 1f : .1f);
+		}
+
 	}
 
 	public void HookFish(int points) {
@@ -117,5 +146,15 @@ public class v2PlayerScript : MonoBehaviour {
 		// TODO: subtract one spare hook
 		// TODO: reset game if out of hooks
 		Debug.Log("Cut line");
+
+		spareReels--;
+		if (spareReels < 0) {
+			ResetGame();
+		} else {
+			for (int i = 0; i < Reels.Count; i++) {
+				PlayerControllerScript.SetAlpha(Reels[i], i < spareReels ? 1f : .1f);
+			}
+		}
+
 	}
 }
