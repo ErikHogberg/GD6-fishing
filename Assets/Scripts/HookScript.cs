@@ -155,12 +155,13 @@ public class HookScript : MonoBehaviour {
 	}
 
 	public bool Cross(int points, bool cut, bool hookable) {
-		if (hookActive && !v2PlayerScript.MainInstance.FishHeld && hookable) {
-			v2PlayerScript.MainInstance.HookFish(points);
-			PlayerControllerScript.SetAlpha(FishRenderer, 1f);
-			return true;
+		if (hookActive) {
+			if (!v2PlayerScript.MainInstance.FishHeld && hookable) {
+				v2PlayerScript.MainInstance.HookFish(points);
+				PlayerControllerScript.SetAlpha(FishRenderer, 1f);
+				return true;
+			}
 		} else if (lineActive && cut) {
-			// NOTE: crossing a hook that already holds a fish will cut the line (if cut enabled)
 			v2PlayerScript.MainInstance.CutLine();
 		}
 

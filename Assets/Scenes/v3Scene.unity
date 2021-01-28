@@ -223,7 +223,7 @@ MonoBehaviour:
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
+  m_enableWordWrapping: 0
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
@@ -771,6 +771,7 @@ MonoBehaviour:
   HighScoreText: {fileID: 120740125}
   ScoreText: {fileID: 1891670829}
   TimeText: {fileID: 1365782806}
+  FishStruggleAmount: 3
   BarrelScoreThreshold: 50
   Barrels:
   - {fileID: 3659286358131654052}
@@ -780,6 +781,10 @@ MonoBehaviour:
   - {fileID: 3659286358131654055}
   - {fileID: 3659286358131654054}
   - {fileID: 3659286358131654053}
+  Sweat:
+  - {fileID: 3659286358131654057}
+  - {fileID: 3659286358131654056}
+  - {fileID: 3659286358131654050}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -935,8 +940,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278202592
+  m_fontColor: {r: 0.8773585, g: 0.18669686, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1393,8 +1398,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278202592
+  m_fontColor: {r: 0.8773585, g: 0.18669686, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1810,8 +1815,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278202592
+  m_fontColor: {r: 0.8773585, g: 0.18669686, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2252,7 +2257,7 @@ MonoBehaviour:
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
+  m_enableWordWrapping: 0
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
@@ -2543,6 +2548,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ccee08a465d5bb74baf2ff51356665b6, type: 3}
+--- !u!212 &3659286358131654050 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 8442709251512655091, guid: ccee08a465d5bb74baf2ff51356665b6, type: 3}
+  m_PrefabInstance: {fileID: 3659286358131654049}
+  m_PrefabAsset: {fileID: 0}
 --- !u!212 &3659286358131654051 stripped
 SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 6753755897606080945, guid: ccee08a465d5bb74baf2ff51356665b6, type: 3}
@@ -2566,5 +2576,15 @@ SpriteRenderer:
 --- !u!212 &3659286358131654055 stripped
 SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 8736849296938299712, guid: ccee08a465d5bb74baf2ff51356665b6, type: 3}
+  m_PrefabInstance: {fileID: 3659286358131654049}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &3659286358131654056 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5885068346614431255, guid: ccee08a465d5bb74baf2ff51356665b6, type: 3}
+  m_PrefabInstance: {fileID: 3659286358131654049}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &3659286358131654057 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 6866859949810446919, guid: ccee08a465d5bb74baf2ff51356665b6, type: 3}
   m_PrefabInstance: {fileID: 3659286358131654049}
   m_PrefabAsset: {fileID: 0}

@@ -21,14 +21,16 @@ public class v2PlayerScript : MonoBehaviour {
 	private bool fishHeld = false;
 	public bool FishHeld => fishHeld;
 	private int heldScore = 0;
+	public int FishStruggleAmount = 3;
+	private int currentStruggle = 0;
 
 	public int BarrelScoreThreshold = 50;
 	public List<SpriteRenderer> Barrels;
 	public List<SpriteRenderer> Reels;
+	public List<SpriteRenderer> Sweat;
 
 	private int spareReels = 3;
 
-	// Start is called before the first frame update
 	void Start() {
 		MainInstance = this;
 		timer = TimeLimit;
@@ -36,12 +38,13 @@ public class v2PlayerScript : MonoBehaviour {
 		currentHook.SetAlphaHigh();
 		currentHook.ActivateLine();
 		PlayerControllerScript.SetAlpha(currentHook.Rope, 1f);
-		UpdateFishermenAlpha();
 		ScoreText?.SetText(score.ToString());
 
 		foreach (SpriteRenderer barrel in Barrels) {
 			PlayerControllerScript.SetAlpha(barrel, .1f);
 		}
+
+		DisableSweat();
 
 		spareReels = Reels.Count;
 
@@ -51,25 +54,35 @@ public class v2PlayerScript : MonoBehaviour {
 		MainInstance = null;
 	}
 
-	// Update is called once per frame
 	void Update() {
 		if (Input.GetKeyDown(KeyCode.A)) {
 			HookScript nextHook = currentHook.GoLeft();
 			if (nextHook)
 				currentHook = nextHook;
-			// UpdateFishermenAlpha();
 		}
 		if (Input.GetKeyDown(KeyCode.D)) {
 			HookScript nextHook = currentHook.GoRight();
 			if (nextHook)
 				currentHook = nextHook;
-			// UpdateFishermenAlpha();
 		}
 
 		if (Input.GetKeyDown(KeyCode.W)) {
-			HookScript nextHook = currentHook.GoUp();
-			if (nextHook)
-				currentHook = nextHook;
+			if (fishHeld) {
+				currentStruggle--;
+				if (currentStruggle <= 0) {
+					currentStruggle = FishStruggleAmount;
+					HookScript nextHook = currentHook.GoUp();
+					if (nextHook)
+						currentHook = nextHook;
+					DisableSweat();
+				} else {
+					UpdateSweat();
+				}
+			} else {
+				HookScript nextHook = currentHook.GoUp();
+				if (nextHook)
+					currentHook = nextHook;
+			}
 
 		}
 		if (Input.GetKeyDown(KeyCode.S)) {
@@ -89,16 +102,6 @@ public class v2PlayerScript : MonoBehaviour {
 		TimeText?.SetText(TimeSpan.FromSeconds(timer).ToString());
 	}
 
-	private void UpdateFishermenAlpha() {
-		// foreach (var item in Fishermen) {
-		// item.DisableHooksAndRopes();
-		// }
-
-		// if (currentFisherman >= 0 && currentFisherman < Fishermen.Count)
-		// hookIndex = Fishermen[currentFisherman].SetHook(hookIndex);
-
-	}
-
 	public void ResetGame() {
 
 		if (highScore < score) {
@@ -107,7 +110,6 @@ public class v2PlayerScript : MonoBehaviour {
 		}
 		score = 0;
 		timer = TimeLimit;
-		UpdateFishermenAlpha();
 		ScoreText?.SetText(score.ToString());
 		foreach (SpriteRenderer barrel in Barrels) {
 			PlayerControllerScript.SetAlpha(barrel, .1f);
@@ -118,10 +120,6 @@ public class v2PlayerScript : MonoBehaviour {
 			PlayerControllerScript.SetAlpha(reel, 1f);
 		}
 
-	}
-
-	public void ResetHook() {
-		UpdateFishermenAlpha();
 	}
 
 	public void AddScore(int newScore) {
@@ -136,14 +134,29 @@ public class v2PlayerScript : MonoBehaviour {
 
 	}
 
+	private void UpdateSweat() {
+		for (int i = 0; i < Sweat.Count; i++) {
+			PlayerControllerScript.SetAlpha(Sweat[i], i < currentStruggle - 1 ? .1f : 1f);
+		}
+	}
+
+	private void DisableSweat() {
+		foreach (SpriteRenderer sweat in Sweat) {
+			PlayerControllerScript.SetAlpha(sweat, .1f);
+		}
+	}
+
 	public void HookFish(int points) {
 		fishHeld = true;
 		heldScore = points;
+		currentStruggle = FishStruggleAmount;
+		UpdateSweat();
 	}
 
 	public void CollectFish() {
 		fishHeld = false;
 		AddScore(heldScore);
+		DisableSweat();
 	}
 
 	public void CutLine() {

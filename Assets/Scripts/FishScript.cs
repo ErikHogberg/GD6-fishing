@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class FishScript : MonoBehaviour {
 
-	// IDEA: fish that wait for hook before moving
-
 	public bool EnabledOnStart;
 	private bool fishActive;
 
@@ -41,21 +39,19 @@ public class FishScript : MonoBehaviour {
 		if (WaitForHook) {
 			if (HookToWaitFor.HookActive)
 				if (!Exit())
-					// NextFish?.Enter();
 					EnterAllNextFish();
 		} else {
 			timer += Time.deltaTime;
 			if (timer > TickSpacing) {
 				if (!Exit())
-					// NextFish?.Enter();
 					EnterAllNextFish();
 			}
 		}
 	}
 
 	public void EnterAllNextFish() {
-		foreach (var item in NextFish) {
-			item?.Enter();
+		foreach (var fish in NextFish) {
+			fish?.Enter();
 		}
 	}
 
