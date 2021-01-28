@@ -13,6 +13,8 @@ public class v2PlayerScript : MonoBehaviour {
 	public float TimeLimit = 20f;
 	private float timer = 20f;
 	private int score = 0;
+	private int highScore = 0;
+	public TMP_Text HighScoreText;
 	public TMP_Text ScoreText;
 	public TMP_Text TimeText;
 
@@ -35,7 +37,7 @@ public class v2PlayerScript : MonoBehaviour {
 		currentHook.ActivateLine();
 		PlayerControllerScript.SetAlpha(currentHook.Rope, 1f);
 		UpdateFishermenAlpha();
-		ScoreText?.SetText("Score: " + score);
+		ScoreText?.SetText(score.ToString());
 
 		foreach (SpriteRenderer barrel in Barrels) {
 			PlayerControllerScript.SetAlpha(barrel, .1f);
@@ -84,7 +86,7 @@ public class v2PlayerScript : MonoBehaviour {
 		timer -= Time.deltaTime;
 		if (timer < 0)
 			ResetGame();
-		TimeText?.SetText("Time: " + TimeSpan.FromSeconds(timer));
+		TimeText?.SetText(TimeSpan.FromSeconds(timer).ToString());
 	}
 
 	private void UpdateFishermenAlpha() {
@@ -99,10 +101,14 @@ public class v2PlayerScript : MonoBehaviour {
 
 	public void ResetGame() {
 
+		if (highScore < score) {
+			highScore = score;
+			HighScoreText?.SetText(highScore.ToString());
+		}
 		score = 0;
 		timer = TimeLimit;
 		UpdateFishermenAlpha();
-		ScoreText?.SetText("Score: " + score);
+		ScoreText?.SetText(score.ToString());
 		foreach (SpriteRenderer barrel in Barrels) {
 			PlayerControllerScript.SetAlpha(barrel, .1f);
 		}
@@ -120,7 +126,7 @@ public class v2PlayerScript : MonoBehaviour {
 
 	public void AddScore(int newScore) {
 		score += newScore;
-		ScoreText?.SetText("Score: " + score);
+		ScoreText?.SetText(score.ToString());
 
 		int barrelsFilled = score / BarrelScoreThreshold;
 
@@ -143,9 +149,6 @@ public class v2PlayerScript : MonoBehaviour {
 	public void CutLine() {
 		fishHeld = false;
 		currentHook = currentHook.GoUpToFirstRecursive();
-		// TODO: subtract one spare hook
-		// TODO: reset game if out of hooks
-		Debug.Log("Cut line");
 
 		spareReels--;
 		if (spareReels < 0) {

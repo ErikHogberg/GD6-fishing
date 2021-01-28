@@ -29,8 +29,8 @@ public class HookScript : MonoBehaviour {
 		} else {
 			PlayerControllerScript.SetAlpha(hookRenderer, .1f);
 			PlayerControllerScript.SetAlpha(Rope, .1f);
-			PlayerControllerScript.SetAlpha(FishRenderer, .1f);
 		}
+		PlayerControllerScript.SetAlpha(FishRenderer, .1f);
 	}
 
 	public HookScript GoLeft() {
