@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class FishScript : MonoBehaviour {
 
-	// IDEA: fish that wait for hook before moving
-
 	public bool EnabledOnStart;
 	private bool fishActive;
 
@@ -13,10 +11,14 @@ public class FishScript : MonoBehaviour {
 
 	public float TickSpacing = .5f;
 	private float timer = 0f;
+	public bool WaitForHook;
+	public HookScript HookToWaitFor;
 
-	public FishScript NextFish;
+	[Space]
+	public List<FishScript> NextFish;
 	public HookScript HookToCross;
 	public bool CutLineOnCross = false;
+	public bool Unhookable = false;
 
 	private SpriteRenderer fishRenderer;
 
@@ -34,12 +36,22 @@ public class FishScript : MonoBehaviour {
 		if (!fishActive)
 			return;
 
-		timer += Time.deltaTime;
-		if (timer > TickSpacing) {
-			// timer -= TickSpacing;
+		if (WaitForHook) {
+			if (HookToWaitFor.HookActive)
+				if (!Exit())
+					EnterAllNextFish();
+		} else {
+			timer += Time.deltaTime;
+			if (timer > TickSpacing) {
+				if (!Exit())
+					EnterAllNextFish();
+			}
+		}
+	}
 
-			if (!Exit())
-				NextFish?.Enter();
+	public void EnterAllNextFish() {
+		foreach (var fish in NextFish) {
+			fish?.Enter();
 		}
 	}
 
@@ -52,6 +64,6 @@ public class FishScript : MonoBehaviour {
 	public bool Exit() {
 		PlayerControllerScript.SetAlpha(fishRenderer, .1f);
 		fishActive = false;
-		return HookToCross && HookToCross.Cross(CatchScore, CutLineOnCross);
+		return HookToCross && HookToCross.Cross(CatchScore, CutLineOnCross, !Unhookable);
 	}
 }

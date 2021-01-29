@@ -17,7 +17,9 @@ public class HookScript : MonoBehaviour {
 	public SpriteRenderer FishRenderer;
 
 	bool hookActive = false;
+	public bool HookActive => hookActive;
 	bool lineActive = false;
+	public bool LineActive => LineActive;
 
 	void Start() {
 		hookRenderer = GetComponent<SpriteRenderer>();
@@ -27,8 +29,8 @@ public class HookScript : MonoBehaviour {
 		} else {
 			PlayerControllerScript.SetAlpha(hookRenderer, .1f);
 			PlayerControllerScript.SetAlpha(Rope, .1f);
-			PlayerControllerScript.SetAlpha(FishRenderer, .1f);
 		}
+		PlayerControllerScript.SetAlpha(FishRenderer, .1f);
 	}
 
 	public HookScript GoLeft() {
@@ -152,11 +154,13 @@ public class HookScript : MonoBehaviour {
 		}
 	}
 
-	public bool Cross(int points, bool cut) {
-		if (hookActive && !v2PlayerScript.MainInstance.FishHeld) {
-			v2PlayerScript.MainInstance.HookFish(points);
-			PlayerControllerScript.SetAlpha(FishRenderer, 1f);
-			return true;
+	public bool Cross(int points, bool cut, bool hookable) {
+		if (hookActive) {
+			if (!v2PlayerScript.MainInstance.FishHeld && hookable) {
+				v2PlayerScript.MainInstance.HookFish(points);
+				PlayerControllerScript.SetAlpha(FishRenderer, 1f);
+				return true;
+			}
 		} else if (lineActive && cut) {
 			v2PlayerScript.MainInstance.CutLine();
 		}
