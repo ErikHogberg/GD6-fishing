@@ -154,14 +154,14 @@ public class HookScript : MonoBehaviour {
 		}
 	}
 
-	public bool Cross(int points, bool cut, bool hookable) {
+	public bool Cross(FishScript fish) {
 		if (hookActive) {
-			if (!v2PlayerScript.MainInstance.FishHeld && hookable) {
-				v2PlayerScript.MainInstance.HookFish(points);
+			if (!v2PlayerScript.MainInstance.FishHeld && !fish.Unhookable) {
+				v2PlayerScript.MainInstance.HookFish(fish);
 				PlayerControllerScript.SetAlpha(FishRenderer, 1f);
 				return true;
 			}
-		} else if (lineActive && cut) {
+		} else if (lineActive && fish.CutLineOnCross) {
 			v2PlayerScript.MainInstance.CutLine();
 		}
 

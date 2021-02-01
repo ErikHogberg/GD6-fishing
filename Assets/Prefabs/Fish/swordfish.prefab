@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 864373423441367661}
   - component: {fileID: 864373423441367660}
+  - component: {fileID: 3130645402060243964}
   m_Layer: 0
   m_Name: swordfish
   m_TagString: Untagged
@@ -82,3 +83,24 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &3130645402060243964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864373423441367666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa04c913df2a734d8383eee542b9d2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnabledOnStart: 0
+  CatchScore: 10
+  TickSpacing: 0.5
+  WaitForHook: 0
+  HookToWaitFor: {fileID: 0}
+  NextFish: []
+  HookToCross: {fileID: 0}
+  CutLineOnCross: 1
+  Unhookable: 1

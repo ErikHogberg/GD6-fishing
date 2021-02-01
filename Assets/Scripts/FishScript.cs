@@ -19,6 +19,7 @@ public class FishScript : MonoBehaviour {
 	public HookScript HookToCross;
 	public bool CutLineOnCross = false;
 	public bool Unhookable = false;
+	public int StruggleAmount = 1;
 
 	private SpriteRenderer fishRenderer;
 
@@ -64,6 +65,6 @@ public class FishScript : MonoBehaviour {
 	public bool Exit() {
 		PlayerControllerScript.SetAlpha(fishRenderer, .1f);
 		fishActive = false;
-		return HookToCross && HookToCross.Cross(CatchScore, CutLineOnCross, !Unhookable);
+		return HookToCross && HookToCross.Cross(this);
 	}
 }

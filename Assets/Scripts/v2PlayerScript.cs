@@ -5,6 +5,14 @@ using TMPro;
 using UnityEngine;
 
 public class v2PlayerScript : MonoBehaviour {
+
+	[Serializable]
+	public class InDemandBoardEntry {
+		public SpriteRenderer Fish;
+		public int ExpectedFishScore;
+		public int ResultingScore;
+	}
+
 	public static v2PlayerScript MainInstance = null;
 
 	public HookScript StartHook;
@@ -29,6 +37,11 @@ public class v2PlayerScript : MonoBehaviour {
 	public List<SpriteRenderer> Reels;
 	public List<SpriteRenderer> Sweat;
 
+	public float InDemandBoardTickTime = 10f;
+	private float boardTimer = 0;
+	public List<InDemandBoardEntry> InDemandBoard;
+	private int currentBoardEntry = 0;
+
 	private int spareReels = 3;
 
 	void Start() {
@@ -42,6 +55,13 @@ public class v2PlayerScript : MonoBehaviour {
 
 		foreach (SpriteRenderer barrel in Barrels) {
 			PlayerControllerScript.SetAlpha(barrel, .1f);
+		}
+
+		foreach (var item in InDemandBoard) {
+			PlayerControllerScript.SetAlpha(item.Fish, .1f);
+		}
+		if (InDemandBoard.Count > currentBoardEntry) {
+			PlayerControllerScript.SetAlpha(InDemandBoard[currentBoardEntry].Fish, 1f);
 		}
 
 		DisableSweat();
@@ -100,6 +120,16 @@ public class v2PlayerScript : MonoBehaviour {
 		if (timer < 0)
 			ResetGame();
 		TimeText?.SetText(TimeSpan.FromSeconds(timer).ToString());
+
+		boardTimer += Time.deltaTime;
+		if (boardTimer > InDemandBoardTickTime) {
+			boardTimer -= InDemandBoardTickTime;
+			PlayerControllerScript.SetAlpha(InDemandBoard[currentBoardEntry].Fish, .1f);
+			currentBoardEntry = UnityEngine.Random.Range(0, InDemandBoard.Count - 1);
+			PlayerControllerScript.SetAlpha(InDemandBoard[currentBoardEntry].Fish, 1f);
+			Debug.Log("Board set to " + currentBoardEntry);
+
+		}
 	}
 
 	public void ResetGame() {
@@ -146,16 +176,24 @@ public class v2PlayerScript : MonoBehaviour {
 		}
 	}
 
-	public void HookFish(int points) {
+	public void HookFish(FishScript fish) {
 		fishHeld = true;
-		heldScore = points;
+		heldScore = fish.CatchScore;
+		FishStruggleAmount = fish.StruggleAmount;
 		currentStruggle = FishStruggleAmount;
 		UpdateSweat();
 	}
 
 	public void CollectFish() {
+		if (!fishHeld)
+			return;
+
 		fishHeld = false;
-		AddScore(heldScore);
+		if (InDemandBoard.Count > currentBoardEntry && heldScore == InDemandBoard[currentBoardEntry].ExpectedFishScore) {
+			AddScore(InDemandBoard[currentBoardEntry].ResultingScore);
+		} else {
+			AddScore(heldScore);
+		}
 		DisableSweat();
 	}
 
