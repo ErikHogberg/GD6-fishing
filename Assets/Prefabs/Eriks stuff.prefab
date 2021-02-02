@@ -5986,7 +5986,7 @@ PrefabInstance:
     - target: {fileID: 6192608377012176519, guid: a5af87450169eb544a28cfaf62dffa47, type: 3}
       propertyPath: DownHook
       value: 
-      objectReference: {fileID: 7437964217221883773}
+      objectReference: {fileID: 0}
     - target: {fileID: 6192608377012176519, guid: a5af87450169eb544a28cfaf62dffa47, type: 3}
       propertyPath: LeftHook
       value: 
