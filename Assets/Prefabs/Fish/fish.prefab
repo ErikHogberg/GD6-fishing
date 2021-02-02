@@ -105,4 +105,4 @@ MonoBehaviour:
   HookToCross: {fileID: 0}
   CutLineOnCross: 1
   Unhookable: 0
-  StruggleAmount: 1
+  StruggleAmount: 2

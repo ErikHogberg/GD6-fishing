@@ -166,7 +166,7 @@ public class v2PlayerScript : MonoBehaviour {
 
 	private void UpdateSweat() {
 		for (int i = 0; i < Sweat.Count; i++) {
-			PlayerControllerScript.SetAlpha(Sweat[i], i < currentStruggle - 1 ? .1f : 1f);
+			PlayerControllerScript.SetAlpha(Sweat[i], i < currentStruggle  ? .1f : 1f);
 		}
 	}
 
