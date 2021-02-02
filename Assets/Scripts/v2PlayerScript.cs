@@ -75,6 +75,10 @@ public class v2PlayerScript : MonoBehaviour {
 	}
 
 	void Update() {
+		if (Input.GetKeyDown(KeyCode.Escape)) {
+			Application.Quit();
+		}
+
 		if (Input.GetKeyDown(KeyCode.A)) {
 			HookScript nextHook = currentHook.GoLeft();
 			if (nextHook)
