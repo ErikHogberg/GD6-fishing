@@ -96,7 +96,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnabledOnStart: 0
-  CatchScore: 10
+  CatchScore: 15
   TickSpacing: 0.5
   WaitForHook: 0
   HookToWaitFor: {fileID: 0}
@@ -105,3 +105,4 @@ MonoBehaviour:
   HookToCross: {fileID: 0}
   CutLineOnCross: 1
   Unhookable: 0
+  StruggleAmount: 1
