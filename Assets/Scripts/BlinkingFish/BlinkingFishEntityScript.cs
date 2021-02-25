@@ -7,6 +7,21 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 
 	public static List<BlinkingFishEntityScript> Instances = new List<BlinkingFishEntityScript>();
 
+	[Serializable]
+	public class ColorSequenceEntry : IEquatable<(Color, float)> {
+		public Color Color;
+		[Range(0, 1)]
+		public float MinTime = 0;
+		[Range(0, 1)]
+		public float MaxTime = 1;
+
+		public bool Equals((Color, float) other) {
+			return CompareColor(Color, other.Item1)
+				&& other.Item2 >= MinTime
+				&& other.Item2 <= MaxTime;
+		}
+	}
+
 	public SpriteRenderer Blinker;
 	private Color initColor;
 	private Color currentColor;
@@ -14,8 +29,8 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 	public float IndicationTime = .1f;
 	private float timer = -1;
 
-	public List<Color> TargetSequence;
-	private List<Color> currentSequence = new List<Color>();
+	public List<ColorSequenceEntry> TargetSequence;
+	private List<(Color, float)> currentSequence = new List<(Color, float)>();
 
 
 	private void Awake() {
@@ -40,19 +55,20 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 		}
 	}
 
-	public bool ReceiveBlink(Color color) {
+	public bool ReceiveBlink(Color color, float time) {
 		// TODO: add color to recorded sequence
 		// TODO: return true if sequence matches
 		// IDEA: delete/clear old sequence if it mismatches before completion
 
 		// IDEA: only change to new color if it fits in sequence
 
-		bool sequenceAccept =false;
+		bool sequenceAccept = false;
 
-		currentSequence.Add(color);
+		currentSequence.Add((color, time));
 		for (int i = 0; i < TargetSequence.Count && i < currentSequence.Count; i++) {
-			if (!CompareColor(TargetSequence[i], currentSequence[i])) {
-				Debug.Log("Sequence rejected! " + TargetSequence[i] + " vs " + currentSequence[i]);
+			// if (!CompareColor(TargetSequence[i], currentSequence[i])) {
+			if (!TargetSequence[i].Equals(currentSequence[i])) {
+				Debug.Log("Sequence rejected! " + TargetSequence[i].Color + ", min:" + TargetSequence[i].MinTime + ", max:" + TargetSequence[i].MaxTime + " \nvs " + currentSequence[i].Item1 + ", " + currentSequence[i].Item2);
 				Blinker.color = initColor;
 				currentColor = initColor;
 				currentSequence.Clear();
@@ -78,9 +94,9 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 		return sequenceAccept;
 	}
 
-	public static bool BroadcastBlink(Color color) {
+	public static bool BroadcastBlink(Color color, float time) {
 		foreach (var item in Instances) {
-			if (item.ReceiveBlink(color))
+			if (item.ReceiveBlink(color, time))
 				return true;
 		}
 

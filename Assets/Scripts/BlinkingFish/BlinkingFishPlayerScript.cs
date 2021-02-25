@@ -16,22 +16,27 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 
 	public List<KeyColorEntry> KeyColorEntries;
 	private KeyCode lastPressedKey;
+	private float pressTimer = 0;
 
 	void Start() {
 		initColor = Blinker.color;
 	}
 
 	void Update() {
+		pressTimer += Time.deltaTime;
 		foreach (var item in KeyColorEntries) {
 			if (Input.GetKeyDown(item.Key)) {
 				lastPressedKey = item.Key;
+				// item.Color.a = initColor.a;
 				Blinker.color = item.Color;
-				BlinkingFishEntityScript.BroadcastBlink(item.Color);
+				// BlinkingFishEntityScript.BroadcastBlink(item.Color);
+				pressTimer = 0;
 			}
 		}
 
 		if (Input.GetKeyUp(lastPressedKey)) {
-            Blinker.color = initColor;
+			BlinkingFishEntityScript.BroadcastBlink(Blinker.color, pressTimer);
+			Blinker.color = initColor;
 		}
 	}
 }
