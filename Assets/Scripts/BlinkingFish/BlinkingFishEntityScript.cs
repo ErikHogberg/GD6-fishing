@@ -55,12 +55,19 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 		}
 	}
 
-	public bool ReceiveBlink(Color color, float time) {
-		// TODO: add color to recorded sequence
-		// TODO: return true if sequence matches
-		// IDEA: delete/clear old sequence if it mismatches before completion
+	public void ReceiveBlinkStart(Color color) {
 
-		// IDEA: only change to new color if it fits in sequence
+		if (color == currentColor) {
+			Blinker.color = initColor;
+			timer = IndicationTime;
+		} else {
+			Blinker.color = color;
+		}
+		currentColor = color;
+
+	}
+
+	public bool ReceiveBlink(Color color, float time) {
 
 		bool sequenceAccept = false;
 
@@ -101,6 +108,12 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 		}
 
 		return false;
+	}
+
+	public static void BroadcastBlinkStart(Color color) {
+		foreach (var item in Instances) {
+			item.ReceiveBlinkStart(color);
+		}
 	}
 
 	private static bool CompareColor(Color color, Color otherColor) {
