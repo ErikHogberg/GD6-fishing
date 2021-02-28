@@ -75,7 +75,7 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 		for (int i = 0; i < TargetSequence.Count && i < currentSequence.Count; i++) {
 			// if (!CompareColor(TargetSequence[i], currentSequence[i])) {
 			if (!TargetSequence[i].Equals(currentSequence[i])) {
-				Debug.Log("Sequence rejected! " + TargetSequence[i].Color + ", min:" + TargetSequence[i].MinTime + ", max:" + TargetSequence[i].MaxTime + " \nvs " + currentSequence[i].Item1 + ", " + currentSequence[i].Item2);
+				// Debug.Log("Sequence rejected! " + TargetSequence[i].Color + ", min:" + TargetSequence[i].MinTime + ", max:" + TargetSequence[i].MaxTime + " \nvs " + currentSequence[i].Item1 + ", " + currentSequence[i].Item2);
 				Blinker.color = initColor;
 				currentColor = initColor;
 				currentSequence.Clear();
@@ -83,7 +83,7 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 			}
 
 			if (i == TargetSequence.Count - 1) {
-				Debug.Log("Sequence accepted!");
+				// Debug.Log("Sequence accepted!");
 				currentSequence.Clear();
 				sequenceAccept = true;
 				break;
@@ -116,12 +116,12 @@ public class BlinkingFishEntityScript : MonoBehaviour {
 		}
 	}
 
-	private static bool CompareColor(Color color, Color otherColor) {
+	public static bool CompareColor(Color color, Color otherColor) {
 		return true
 			&& Math.Round(color.r, 2) == Math.Round(otherColor.r, 2)
 			&& Math.Round(color.g, 2) == Math.Round(otherColor.g, 2)
 			&& Math.Round(color.b, 2) == Math.Round(otherColor.b, 2)
-			&& Math.Round(color.a, 2) == Math.Round(otherColor.a, 2)
+			// && Math.Round(color.a, 2) == Math.Round(otherColor.a, 2)
 			;
 	}
 

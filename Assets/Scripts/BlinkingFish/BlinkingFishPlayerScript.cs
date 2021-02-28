@@ -5,6 +5,11 @@ using UnityEngine;
 
 public class BlinkingFishPlayerScript : MonoBehaviour {
 
+	public interface BlinkListener {
+		void ReceiveBlinkStart(Color color);
+		bool ReceiveBlinkEnd(Color color, float time);
+	}
+
 	public SpriteRenderer Blinker;
 	private Color initColor;
 
@@ -16,6 +21,12 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 
 	public List<KeyColorEntry> KeyColorEntries;
 	private KeyCode lastPressedKey;
+	public Color CurrentColor => Blinker.color;
+
+	public bool OverrideAlpha = false;
+	[Range(0, 1)]
+	public float Alpha = 1;
+
 	private float pressTimer = 0;
 
 	void Start() {
@@ -27,8 +38,13 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 		foreach (var item in KeyColorEntries) {
 			if (Input.GetKeyDown(item.Key)) {
 				lastPressedKey = item.Key;
-				// item.Color.a = initColor.a;
-				Blinker.color = item.Color;
+				if (OverrideAlpha) {
+					Color tempColor = item.Color;
+					tempColor.a = Alpha;
+					Blinker.color = tempColor;
+				} else {
+					Blinker.color = item.Color;
+				}
 				// BlinkingFishEntityScript.BroadcastBlink(item.Color);
 				pressTimer = 0;
 			}
