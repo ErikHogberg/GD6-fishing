@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 8a4052789552afc419cf7b602c71ddd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1463249287790584375
+    second: Bugs_S_0
+  - first:
+      213: -7715860731820997357
+    second: Bugs_S_1
+  - first:
+      213: 4678604099198784353
+    second: Bugs_S_2
+  - first:
+      213: 2621180318424357635
+    second: Bugs_S_3
+  - first:
+      213: -8132425117370516194
+    second: Bugs_S_4
+  - first:
+      213: -1195294158459402320
+    second: Bugs_S_5
+  - first:
+      213: 73886980719320043
+    second: Bugs_S_6
+  - first:
+      213: 8294857601272454329
+    second: Bugs_S_7
+  - first:
+      213: -5274239699445468369
+    second: Bugs_S_8
+  - first:
+      213: -1741524759839308119
+    second: Bugs_S_9
+  - first:
+      213: 8873632479207901332
+    second: Bugs_S_10
+  - first:
+      213: 1704336671225038470
+    second: Bugs_S_11
+  - first:
+      213: -1088077097380002446
+    second: Bugs_S_12
+  - first:
+      213: -866317003466478314
+    second: Bugs_S_13
+  - first:
+      213: 427482862917131099
+    second: Bugs_S_14
+  - first:
+      213: 4211610569839962161
+    second: Bugs_S_15
+  - first:
+      213: -5350816808994984644
+    second: Bugs_S_16
+  - first:
+      213: 2197463988995316207
+    second: Bugs_S_17
+  - first:
+      213: 4483493525093498151
+    second: Bugs_S_18
+  - first:
+      213: 7580299639169498339
+    second: Bugs_S_19
+  - first:
+      213: 1689483880388733069
+    second: Bugs_S_20
+  - first:
+      213: 3297559507506086728
+    second: Bugs_S_21
+  - first:
+      213: -2939489271126330658
+    second: Bugs_S_22
+  - first:
+      213: -3673780872693018433
+    second: Bugs_S_23
+  - first:
+      213: -4469945515773262367
+    second: Bugs_S_24
+  - first:
+      213: -2056971960163012664
+    second: Bugs_S_25
+  - first:
+      213: 4597573368116021303
+    second: Bugs_S_26
+  - first:
+      213: 1044994068291666290
+    second: Bugs_S_27
+  - first:
+      213: -2386583580055429746
+    second: Bugs_S_28
+  - first:
+      213: -5825878649573294214
+    second: Bugs_S_29
+  - first:
+      213: 8879366950583249174
+    second: Bugs_S_30
+  - first:
+      213: 3638801615464914154
+    second: Bugs_S_31
+  - first:
+      213: -6471079384511619758
+    second: Bugs_S_32
+  - first:
+      213: 6874055580391207306
+    second: Bugs_S_33
+  - first:
+      213: -4712582386286443566
+    second: Bugs_S_34
+  - first:
+      213: 7663090100504035338
+    second: Bugs_S_35
+  - first:
+      213: -6628394842737229646
+    second: Bugs_S_36
+  - first:
+      213: 3127533379025768246
+    second: Bugs_S_37
+  - first:
+      213: 9056773607774066489
+    second: Bugs_S_38
+  - first:
+      213: -2037718552118492706
+    second: Bugs_S_39
+  - first:
+      213: -2673872065173997410
+    second: Bugs_S_40
+  - first:
+      213: 5406419389783753751
+    second: Bugs_S_41
+  - first:
+      213: -7156351524863445701
+    second: Bugs_S_42
+  - first:
+      213: 5758428443753641238
+    second: Bugs_S_43
+  - first:
+      213: -2500115657324050729
+    second: Bugs_S_44
+  - first:
+      213: 2165297198381645455
+    second: Bugs_S_45
+  - first:
+      213: 2189073126222669374
+    second: Bugs_S_46
+  - first:
+      213: 1342503930321366014
+    second: Bugs_S_47
+  - first:
+      213: -4256012125260758332
+    second: Bugs_S_48
+  - first:
+      213: -3948665069157542805
+    second: Bugs_S_49
+  - first:
+      213: 4747812855079131652
+    second: Bugs_S_50
+  - first:
+      213: -1657852025917720244
+    second: Bugs_S_51
+  - first:
+      213: 7398485909552150495
+    second: Bugs_S_52
+  - first:
+      213: -1251745138710155570
+    second: Bugs_S_53
+  - first:
+      213: -864192944021154583
+    second: Bugs_S_54
+  - first:
+      213: -2015271923582073201
+    second: Bugs_S_55
+  - first:
+      213: 8168809401861983280
+    second: Bugs_S_56
+  - first:
+      213: -7476062901595927256
+    second: Bugs_S_57
+  - first:
+      213: 2741537244538900083
+    second: Bugs_S_58
+  - first:
+      213: 6827914263878187313
+    second: Bugs_S_59
+  - first:
+      213: -2735304503094487480
+    second: Bugs_S_60
+  - first:
+      213: 595887099518787766
+    second: Bugs_S_61
+  - first:
+      213: 549882603150144458
+    second: Bugs_S_62
+  - first:
+      213: 986486517740882913
+    second: Bugs_S_63
+  - first:
+      213: 8020143414434847868
+    second: Bugs_S_64
+  - first:
+      213: 2295131087352577890
+    second: Bugs_S_65
+  - first:
+      213: 7233392551443807503
+    second: Bugs_S_66
+  - first:
+      213: -2203540664300612985
+    second: Bugs_S_67
+  - first:
+      213: 7535958371790152322
+    second: Bugs_S_68
+  - first:
+      213: 5420919998162764142
+    second: Bugs_S_69
+  - first:
+      213: -1793907368048213626
+    second: Bugs_S_70
+  - first:
+      213: 234142220015229703
+    second: Bugs_S_71
+  - first:
+      213: -9123520382158563844
+    second: Bugs_S_72
+  - first:
+      213: 8293725378139772111
+    second: Bugs_S_73
+  - first:
+      213: 2468899725830894788
+    second: Bugs_S_74
+  - first:
+      213: 5031899373956093801
+    second: Bugs_S_75
+  - first:
+      213: 7590812479417820337
+    second: Bugs_S_76
+  - first:
+      213: -8603651177762913691
+    second: Bugs_S_77
+  - first:
+      213: -6463953956182447638
+    second: Bugs_S_78
+  - first:
+      213: -2806137340370953399
+    second: Bugs_S_79
+  - first:
+      213: -543532407312436735
+    second: Bugs_S_80
+  - first:
+      213: 758170277328801759
+    second: Bugs_S_81
+  - first:
+      213: -5027199753669703003
+    second: Bugs_S_82
+  - first:
+      213: 2982929524079676664
+    second: Bugs_S_83
+  - first:
+      213: -3344593900477241008
+    second: Bugs_S_84
+  - first:
+      213: 7125706448743485076
+    second: Bugs_S_85
+  - first:
+      213: -2017641745748157398
+    second: Bugs_S_86
+  - first:
+      213: 1377338755302196550
+    second: Bugs_S_87
+  - first:
+      213: -843734245706722599
+    second: Bugs_S_88
+  - first:
+      213: -8189473249390067857
+    second: Bugs_S_89
+  - first:
+      213: 7742207426620195521
+    second: Bugs_S_90
+  - first:
+      213: 1295928978087349524
+    second: Bugs_S_91
+  - first:
+      213: 4553929512595972241
+    second: Bugs_S_92
+  - first:
+      213: -5969210585732826428
+    second: Bugs_S_93
+  - first:
+      213: -6597574812755928375
+    second: Bugs_S_94
+  - first:
+      213: 6061106597051377677
+    second: Bugs_S_95
+  - first:
+      213: 1999544169662211984
+    second: Bugs_S_96
+  - first:
+      213: 9130791835923315931
+    second: Bugs_S_97
+  - first:
+      213: 4739165386943517630
+    second: Bugs_S_98
+  - first:
+      213: -1578924157918186539
+    second: Bugs_S_99
+  - first:
+      213: 6435518426743772720
+    second: Bugs_S_100
+  - first:
+      213: 6577486092694653404
+    second: Bugs_S_101
+  - first:
+      213: 4150450990141086140
+    second: Bugs_S_102
+  - first:
+      213: 26309735441222524
+    second: Bugs_S_103
+  - first:
+      213: -1351506417430060411
+    second: Bugs_S_104
+  - first:
+      213: 7692327165249344606
+    second: Bugs_S_105
+  - first:
+      213: 8374302872190354992
+    second: Bugs_S_106
+  - first:
+      213: 4876847866657934871
+    second: Bugs_S_107
+  - first:
+      213: -7026685265843400532
+    second: Bugs_S_108
+  - first:
+      213: -6790138132207586066
+    second: Bugs_S_109
+  - first:
+      213: -2668614277761368869
+    second: Bugs_S_110
+  - first:
+      213: -3628071750868321571
+    second: Bugs_S_111
+  - first:
+      213: -856578685570201794
+    second: Bugs_S_112
+  - first:
+      213: -5756696480095075186
+    second: Bugs_S_113
+  - first:
+      213: -6766039666573115322
+    second: Bugs_S_114
+  - first:
+      213: -4255063373904041603
+    second: Bugs_S_115
+  - first:
+      213: -8150170100781601088
+    second: Bugs_S_116
+  - first:
+      213: -8142493661831118082
+    second: Bugs_S_117
+  - first:
+      213: -7401953976301267377
+    second: Bugs_S_118
+  - first:
+      213: -1330819028279616631
+    second: Bugs_S_119
+  - first:
+      213: -2644160859913876465
+    second: Bugs_S_120
+  - first:
+      213: -7562886086451912667
+    second: Bugs_S_121
+  - first:
+      213: 3190699804048211860
+    second: Bugs_S_122
+  - first:
+      213: 1045331188023762475
+    second: Bugs_S_123
+  - first:
+      213: -1372284326256969483
+    second: Bugs_S_124
+  - first:
+      213: -2269492270724297539
+    second: Bugs_S_125
+  - first:
+      213: 7930681830344497973
+    second: Bugs_S_126
+  - first:
+      213: -1850976735177600491
+    second: Bugs_S_127
+  - first:
+      213: -8781396385666745605
+    second: Bugs_S_128
+  - first:
+      213: 3049969593902702773
+    second: Bugs_S_129
+  - first:
+      213: 5744373329265362983
+    second: Bugs_S_130
+  - first:
+      213: -613547704723808247
+    second: Bugs_S_131
+  - first:
+      213: -8542840108385945890
+    second: Bugs_S_132
+  - first:
+      213: -7019365716773683152
+    second: Bugs_S_133
+  - first:
+      213: 2100436974967626232
+    second: Bugs_S_134
+  - first:
+      213: 7950036787630002302
+    second: Bugs_S_135
+  - first:
+      213: -7409135728402669621
+    second: Bugs_S_136
+  - first:
+      213: -2702596284041945040
+    second: Bugs_S_137
+  - first:
+      213: -7112907130567875468
+    second: Bugs_S_138
+  - first:
+      213: -4217001778336400527
+    second: Bugs_S_139
+  - first:
+      213: -5657982253603660257
+    second: Bugs_S_140
+  - first:
+      213: 4340956106497336122
+    second: Bugs_S_141
+  - first:
+      213: -6912743314052476535
+    second: Bugs_S_142
+  - first:
+      213: 8697175652493473118
+    second: Bugs_S_143
+  - first:
+      213: 2187150454767969196
+    second: Bugs_S_144
+  - first:
+      213: -5968369785224413333
+    second: Bugs_S_145
+  - first:
+      213: -8428350616926076081
+    second: Bugs_S_146
+  - first:
+      213: 1712600671375590392
+    second: Bugs_S_147
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bugs_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd166f768e71bbe0800000000000000
+      internalID: -1463249287790584375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1215
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3158c677b81cbe490800000000000000
+      internalID: -7715860731820997357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1215
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1631e61d3adbde040800000000000000
+      internalID: 4678604099198784353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1215
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bddebac9d406420800000000000000
+      internalID: 2621180318424357635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1215
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d7aa47172d32f80800000000000000
+      internalID: -8132425117370516194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78deabb46796fe0800000000000000
+      internalID: -1195294158459402320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1080
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1d4741df760100800000000000000
+      internalID: 73886980719320043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1080
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc1b425a014d1370800000000000000
+      internalID: 8294857601272454329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1080
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f233a4effe22ec6b0800000000000000
+      internalID: -5274239699445468369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1080
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a60b3a357cd4d7e0800000000000000
+      internalID: -1741524759839308119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984e8ea9b9752b70800000000000000
+      internalID: 8873632479207901332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6864a0a2c2507a710800000000000000
+      internalID: 1704336671225038470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754d6215af56e0f0800000000000000
+      internalID: -1088077097380002446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61def7976493af3f0800000000000000
+      internalID: -866317003466478314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b1ebf1669bee500800000000000000
+      internalID: 427482862917131099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138679bcf75a27a30800000000000000
+      internalID: 4211610569839962161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d2aa946741eb5b0800000000000000
+      internalID: -5350816808994984644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe957c6fad5fe7e10800000000000000
+      internalID: 2197463988995316207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d36f34b91983e30800000000000000
+      internalID: 4483493525093498151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec38b31c52a23960800000000000000
+      internalID: 7580299639169498339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a15053a0427710800000000000000
+      internalID: 1689483880388733069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843cc9e96e843cd20800000000000000
+      internalID: 3297559507506086728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2717df416d437d0800000000000000
+      internalID: -2939489271126330658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01284c2cb140dc0800000000000000
+      internalID: -3673780872693018433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50cf67c3097f1c0800000000000000
+      internalID: -4469945515773262367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6b8986ea2473e0800000000000000
+      internalID: -2056971960163012664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380a5b8e9cddcf30800000000000000
+      internalID: 4597573368116021303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714ae88190908e00800000000000000
+      internalID: 1044994068291666290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d140ce0e621eed0800000000000000
+      internalID: -2386583580055429746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_29
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fb6ab2c32562fa0800000000000000
+      internalID: -5825878649573294214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619abd75239d93b70800000000000000
+      internalID: 8879366950583249174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec57e14ace9f7230800000000000000
+      internalID: 3638801615464914154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd4d4c59b1236a0800000000000000
+      internalID: -6471079384511619758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81728b412d856f50800000000000000
+      internalID: 6874055580391207306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d342aab94b899eb0800000000000000
+      internalID: -4712582386286443566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a000b5a78d3c85a60800000000000000
+      internalID: 7663090100504035338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0cd9f52063304a0800000000000000
+      internalID: -6628394842737229646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f0200b90b376b20800000000000000
+      internalID: 3127533379025768246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93791868c9f10bd70800000000000000
+      internalID: 9056773607774066489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_39
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed101cce5c198b3e0800000000000000
+      internalID: -2037718552118492706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b674068f74ead0800000000000000
+      internalID: -2673872065173997410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_41
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71448d26ac5770b40800000000000000
+      internalID: 5406419389783753751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3570b044388fac90800000000000000
+      internalID: -7156351524863445701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_43
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f07ef82c0aef40800000000000000
+      internalID: 5758428443753641238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_44
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6cecb4e0ecd4dd0800000000000000
+      internalID: -2500115657324050729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ebfa6645eac0e10800000000000000
+      internalID: 2165297198381645455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e362bdbf866216e10800000000000000
+      internalID: 2189073126222669374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_S_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbee54363881a210800000000000000
+      internalID: 1342503930321366014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

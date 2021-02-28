@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 95a82c006094129478ec6e25090ff9e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5122218634263694271
+    second: BugsIdle_S_0
+  - first:
+      213: -8470012680563448851
+    second: BugsIdle_S_1
+  - first:
+      213: 5376462669316638540
+    second: BugsIdle_S_2
+  - first:
+      213: -153528132210653255
+    second: BugsIdle_S_3
+  - first:
+      213: -5933445217325498769
+    second: BugsIdle_S_4
+  - first:
+      213: 7841696828666766759
+    second: BugsIdle_S_5
+  - first:
+      213: 6131479743266101239
+    second: BugsIdle_S_6
+  - first:
+      213: 3438948687872706190
+    second: BugsIdle_S_7
+  - first:
+      213: 4908044520859131939
+    second: BugsIdle_S_8
+  - first:
+      213: -8091343809632389368
+    second: BugsIdle_S_9
+  - first:
+      213: 3066843762725723706
+    second: BugsIdle_S_10
+  - first:
+      213: 5135487464283597603
+    second: BugsIdle_S_11
+  - first:
+      213: 2852172611961304897
+    second: BugsIdle_S_12
+  - first:
+      213: 8257602534252612016
+    second: BugsIdle_S_13
+  - first:
+      213: -5249674131540969412
+    second: BugsIdle_S_14
+  - first:
+      213: 4923423796816358724
+    second: BugsIdle_S_15
+  - first:
+      213: 2474886343795121501
+    second: BugsIdle_S_16
+  - first:
+      213: 6552913479362945651
+    second: BugsIdle_S_17
+  - first:
+      213: -5662724155035908926
+    second: BugsIdle_S_18
+  - first:
+      213: 4766033054252215198
+    second: BugsIdle_S_19
+  - first:
+      213: -7234027437833975012
+    second: BugsIdle_S_20
+  - first:
+      213: -8793057036589308387
+    second: BugsIdle_S_21
+  - first:
+      213: -7254105334871854061
+    second: BugsIdle_S_22
+  - first:
+      213: -4612047577420342076
+    second: BugsIdle_S_23
+  - first:
+      213: -1511793287643610813
+    second: BugsIdle_S_24
+  - first:
+      213: -9159816169219039235
+    second: BugsIdle_S_25
+  - first:
+      213: -1414078870993768770
+    second: BugsIdle_S_26
+  - first:
+      213: -4262180362447041856
+    second: BugsIdle_S_27
+  - first:
+      213: 8230972461737832089
+    second: BugsIdle_S_28
+  - first:
+      213: -1895948820262200216
+    second: BugsIdle_S_29
+  - first:
+      213: -2039913461087894402
+    second: BugsIdle_S_30
+  - first:
+      213: 4542499308413520397
+    second: BugsIdle_S_31
+  - first:
+      213: 3145048040710720705
+    second: BugsIdle_S_32
+  - first:
+      213: -6513055826321169741
+    second: BugsIdle_S_33
+  - first:
+      213: -7208308705992432217
+    second: BugsIdle_S_34
+  - first:
+      213: 667218624621421689
+    second: BugsIdle_S_35
+  - first:
+      213: -2521093480157509592
+    second: BugsIdle_S_36
+  - first:
+      213: -6288318239334222927
+    second: BugsIdle_S_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BugsIdle_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14473d27a493ae8b0800000000000000
+      internalID: -5122218634263694271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de326f3d758747a80800000000000000
+      internalID: -8470012680563448851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4744c0ef480d9a40800000000000000
+      internalID: 5376462669316638540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b70e882afe8eddf0800000000000000
+      internalID: -153528132210653255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 945
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb217f20b28ada0800000000000000
+      internalID: -5933445217325498769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a56df4f7bd43dc60800000000000000
+      internalID: 7841696828666766759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f711ec2754671550800000000000000
+      internalID: 6131479743266101239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c27d7c9999bf20800000000000000
+      internalID: 3438948687872706190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206c9fdc70ec1440800000000000000
+      internalID: 4908044520859131939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 810
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8073e47cca5c5bf80800000000000000
+      internalID: -8091343809632389368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e93e2472e9f8a20800000000000000
+      internalID: 3066843762725723706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6819c3aae44740800000000000000
+      internalID: 5135487464283597603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1473d0e01e3f49720800000000000000
+      internalID: 2852172611961304897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b90e7611c5e89270800000000000000
+      internalID: 8257602534252612016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 675
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3871faf0396527b0800000000000000
+      internalID: -5249674131540969412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da1f79bd3835440800000000000000
+      internalID: 4923423796816358724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d9f556400985220800000000000000
+      internalID: 2474886343795121501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722c453710a0fa50800000000000000
+      internalID: 6552913479362945651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c48f062266f961b0800000000000000
+      internalID: -5662724155035908926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 540
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b2972bfc9542240800000000000000
+      internalID: 4766033054252215198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0a707f529b9b90800000000000000
+      internalID: -7234027437833975012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16685c7639c8f580800000000000000
+      internalID: -8793057036589308387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31472bfb1ad345b90800000000000000
+      internalID: -7254105334871854061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd8acf927beffb0800000000000000
+      internalID: -4612047577420342076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 405
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341ce24c308050be0800000000000000
+      internalID: -1511793287643610813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffd1d199bbc1e080800000000000000
+      internalID: -9159816169219039235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee70a42ce206ce0800000000000000
+      internalID: -1414078870993768770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac2b7da81b9d4c0800000000000000
+      internalID: -4262180362447041856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee7e928d94a3270800000000000000
+      internalID: 8230972461737832089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_29
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 270
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c53f7d79c30b5e0800000000000000
+      internalID: -1895948820262200216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74815bd385c0b3e0800000000000000
+      internalID: -2039913461087894402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0276cd033a0f30800000000000000
+      internalID: 4542499308413520397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc914a78475ab20800000000000000
+      internalID: 3145048040710720705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a6ddcb3afc95a0800000000000000
+      internalID: -6513055826321169741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 135
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a527f35c61f6fb90800000000000000
+      internalID: -7208308705992432217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974a514ddcf624900800000000000000
+      internalID: 667218624621421689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82888ad46d6430dd0800000000000000
+      internalID: -2521093480157509592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsIdle_S_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bfd5d0e76bb8a0800000000000000
+      internalID: -6288318239334222927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

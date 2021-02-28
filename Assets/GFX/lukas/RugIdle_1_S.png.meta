@@ -1,0 +1,2316 @@
+fileFormatVersion: 2
+guid: ee638814ae834c54e9f7f6708a63ef2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8891556882248577732
+    second: RugIdle_1_S_0
+  - first:
+      213: -8660771826590981337
+    second: RugIdle_1_S_1
+  - first:
+      213: -1115124822652340483
+    second: RugIdle_1_S_2
+  - first:
+      213: -8343134524145265387
+    second: RugIdle_1_S_3
+  - first:
+      213: -6002512573828930659
+    second: RugIdle_1_S_4
+  - first:
+      213: 4079854372227652084
+    second: RugIdle_1_S_5
+  - first:
+      213: -8587163732575412668
+    second: RugIdle_1_S_6
+  - first:
+      213: -6120602351365127342
+    second: RugIdle_1_S_7
+  - first:
+      213: 936241770381077310
+    second: RugIdle_1_S_8
+  - first:
+      213: -1612756161985205978
+    second: RugIdle_1_S_9
+  - first:
+      213: -4338506776336225282
+    second: RugIdle_1_S_10
+  - first:
+      213: -7049506239260382967
+    second: RugIdle_1_S_11
+  - first:
+      213: -381019186012799150
+    second: RugIdle_1_S_12
+  - first:
+      213: -8129219387056945442
+    second: RugIdle_1_S_13
+  - first:
+      213: 2167481108779835261
+    second: RugIdle_1_S_14
+  - first:
+      213: -837760654110339652
+    second: RugIdle_1_S_15
+  - first:
+      213: 7119415092451462634
+    second: RugIdle_1_S_16
+  - first:
+      213: 5649053378371627914
+    second: RugIdle_1_S_17
+  - first:
+      213: -2103283027259315639
+    second: RugIdle_1_S_18
+  - first:
+      213: -5798798550104661977
+    second: RugIdle_1_S_19
+  - first:
+      213: 4754980744431901777
+    second: RugIdle_1_S_20
+  - first:
+      213: -960937580765092618
+    second: RugIdle_1_S_21
+  - first:
+      213: 8127059233210862023
+    second: RugIdle_1_S_22
+  - first:
+      213: 4784469974129005918
+    second: RugIdle_1_S_23
+  - first:
+      213: -9182714466636008773
+    second: RugIdle_1_S_24
+  - first:
+      213: -7688554412835883610
+    second: RugIdle_1_S_25
+  - first:
+      213: 1929760664367328713
+    second: RugIdle_1_S_26
+  - first:
+      213: 4824723633847977129
+    second: RugIdle_1_S_27
+  - first:
+      213: -8705286800359622729
+    second: RugIdle_1_S_28
+  - first:
+      213: 6676467903965895627
+    second: RugIdle_1_S_29
+  - first:
+      213: -6573507190895727616
+    second: RugIdle_1_S_30
+  - first:
+      213: 6727974329890783505
+    second: RugIdle_1_S_31
+  - first:
+      213: -4996666724504881630
+    second: RugIdle_1_S_32
+  - first:
+      213: -7163555479815754453
+    second: RugIdle_1_S_33
+  - first:
+      213: 8206670784338626179
+    second: RugIdle_1_S_34
+  - first:
+      213: 4194754915350125257
+    second: RugIdle_1_S_35
+  - first:
+      213: -2285391459939820672
+    second: RugIdle_1_S_36
+  - first:
+      213: 8322420471088667223
+    second: RugIdle_1_S_37
+  - first:
+      213: 3496943457170421958
+    second: RugIdle_1_S_38
+  - first:
+      213: -6316655007608369252
+    second: RugIdle_1_S_39
+  - first:
+      213: 8469835063962330029
+    second: RugIdle_1_S_40
+  - first:
+      213: 2704425956040541882
+    second: RugIdle_1_S_41
+  - first:
+      213: -2246530287177034849
+    second: RugIdle_1_S_42
+  - first:
+      213: 917010728703499100
+    second: RugIdle_1_S_43
+  - first:
+      213: 1235917782496489151
+    second: RugIdle_1_S_44
+  - first:
+      213: 8503357020682134611
+    second: RugIdle_1_S_45
+  - first:
+      213: 8916703115585737752
+    second: RugIdle_1_S_46
+  - first:
+      213: 3179159009006259449
+    second: RugIdle_1_S_47
+  - first:
+      213: -4513371038546339809
+    second: RugIdle_1_S_48
+  - first:
+      213: 2793556077172526371
+    second: RugIdle_1_S_49
+  - first:
+      213: -1189610607217644356
+    second: RugIdle_1_S_50
+  - first:
+      213: -471895246842164762
+    second: RugIdle_1_S_51
+  - first:
+      213: -8136310303869626586
+    second: RugIdle_1_S_52
+  - first:
+      213: 4961184146108267967
+    second: RugIdle_1_S_53
+  - first:
+      213: -5347316557870562361
+    second: RugIdle_1_S_54
+  - first:
+      213: 2367018361509539898
+    second: RugIdle_1_S_55
+  - first:
+      213: 2949010741632068639
+    second: RugIdle_1_S_56
+  - first:
+      213: 2714669423646796764
+    second: RugIdle_1_S_57
+  - first:
+      213: -7529517370122784085
+    second: RugIdle_1_S_58
+  - first:
+      213: -5627889799604432078
+    second: RugIdle_1_S_59
+  - first:
+      213: 2097390884212999662
+    second: RugIdle_1_S_60
+  - first:
+      213: -8319033490458144187
+    second: RugIdle_1_S_61
+  - first:
+      213: -8918125134939957808
+    second: RugIdle_1_S_62
+  - first:
+      213: 3429208797878425216
+    second: RugIdle_1_S_63
+  - first:
+      213: 2798749776152999101
+    second: RugIdle_1_S_64
+  - first:
+      213: 1715418286507013244
+    second: RugIdle_1_S_65
+  - first:
+      213: -3273102965868448401
+    second: RugIdle_1_S_66
+  - first:
+      213: -4005268264018435573
+    second: RugIdle_1_S_67
+  - first:
+      213: -2229657720748978364
+    second: RugIdle_1_S_68
+  - first:
+      213: 8028817683375147457
+    second: RugIdle_1_S_69
+  - first:
+      213: -4220827504891156642
+    second: RugIdle_1_S_70
+  - first:
+      213: 2155261493252755842
+    second: RugIdle_1_S_71
+  - first:
+      213: -6822083509409870336
+    second: RugIdle_1_S_72
+  - first:
+      213: 1006563994986923087
+    second: RugIdle_1_S_73
+  - first:
+      213: 5034946056626267642
+    second: RugIdle_1_S_74
+  - first:
+      213: 3423720327884397093
+    second: RugIdle_1_S_75
+  - first:
+      213: -6438542509548155251
+    second: RugIdle_1_S_76
+  - first:
+      213: -3066741627733623144
+    second: RugIdle_1_S_77
+  - first:
+      213: 6160196281010411248
+    second: RugIdle_1_S_78
+  - first:
+      213: -3092046441668082960
+    second: RugIdle_1_S_79
+  - first:
+      213: -6837091009370017710
+    second: RugIdle_1_S_80
+  - first:
+      213: 8598857926726645887
+    second: RugIdle_1_S_81
+  - first:
+      213: -4200899816478017636
+    second: RugIdle_1_S_82
+  - first:
+      213: -690064109403519921
+    second: RugIdle_1_S_83
+  - first:
+      213: -6820679851014489836
+    second: RugIdle_1_S_84
+  - first:
+      213: -5393193087822919850
+    second: RugIdle_1_S_85
+  - first:
+      213: -2918048676829137871
+    second: RugIdle_1_S_86
+  - first:
+      213: -85626226511607981
+    second: RugIdle_1_S_87
+  - first:
+      213: -6080879738928500732
+    second: RugIdle_1_S_88
+  - first:
+      213: 6734339229150573702
+    second: RugIdle_1_S_89
+  - first:
+      213: -2162165252506356900
+    second: RugIdle_1_S_90
+  - first:
+      213: -2271410073814540198
+    second: RugIdle_1_S_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RugIdle_1_S_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2808
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c23b9affd7256b70800000000000000
+      internalID: 8891556882248577732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3175
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723655319e1cec780800000000000000
+      internalID: -8660771826590981337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2808
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df63699c1e74680f0800000000000000
+      internalID: -1115124822652340483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3175
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151607aa5b373c80800000000000000
+      internalID: -8343134524145265387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_4
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2808
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936c15ed9ac2bca0800000000000000
+      internalID: -6002512573828930659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_5
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3175
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f914ff7fed8e9830800000000000000
+      internalID: 4079854372227652084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_6
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2808
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e99bbf41444d880800000000000000
+      internalID: -8587163732575412668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_7
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 3175
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253067bf6904f0ba0800000000000000
+      internalID: -6120602351365127342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_8
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2808
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b62730ee23efc00800000000000000
+      internalID: 936241770381077310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_9
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3175
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ac8fb0d65e99e0800000000000000
+      internalID: -1612756161985205978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_10
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2808
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbaad4c2178ac3c0800000000000000
+      internalID: -4338506776336225282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_11
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 3175
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092cfedc6f1b2e90800000000000000
+      internalID: -7049506239260382967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2411
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f391da11956baf0800000000000000
+      internalID: -381019186012799150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2776
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68045b9063f2f80800000000000000
+      internalID: -8129219387056945442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2411
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f113aa590741e10800000000000000
+      internalID: 2167481108779835261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2776
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd44fcaf1daf54f0800000000000000
+      internalID: -837760654110339652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_16
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2411
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedcf1a6e4e3dc260800000000000000
+      internalID: 7119415092451462634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2776
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8baf0f1e18756e40800000000000000
+      internalID: 5649053378371627914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_18
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2411
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa91afa33afc2e0800000000000000
+      internalID: -2103283027259315639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_19
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2776
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72026f82177868fa0800000000000000
+      internalID: -5798798550104661977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_20
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2411
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9fa94bc51df140800000000000000
+      internalID: 4754980744431901777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_21
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2776
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f46c2f8c501aa2f0800000000000000
+      internalID: -960937580765092618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_22
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2411
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98718405d19c070800000000000000
+      internalID: 8127059233210862023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_23
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2776
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555b7e971ad56240800000000000000
+      internalID: 4784469974129005918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2012
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f15e38d1709080800000000000000
+      internalID: -9182714466636008773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2379
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b7aa4f74cc4590800000000000000
+      internalID: -7688554412835883610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2012
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde2259913e7ca10800000000000000
+      internalID: 1929760664367328713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_27
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2379
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c0fe159cd4f240800000000000000
+      internalID: 4824723633847977129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_28
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2012
+        width: 626
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7faa417cb903780800000000000000
+      internalID: -8705286800359622729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_29
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2379
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb1f2a6f2497ac50800000000000000
+      internalID: 6676467903965895627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_30
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2012
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2f2ea90636c4a0800000000000000
+      internalID: -6573507190895727616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_31
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2379
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114617b1019e5d50800000000000000
+      internalID: 6727974329890783505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_32
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2012
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2263fd8661648aab0800000000000000
+      internalID: -4996666724504881630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_33
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2379
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d67c8ce30f59c90800000000000000
+      internalID: -7163555479815754453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_34
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2012
+        width: 626
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868419f893f3e170800000000000000
+      internalID: 8206670784338626179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_35
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 2379
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca9449ee53c63a30800000000000000
+      internalID: 4194754915350125257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1614
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b53916398a840e0800000000000000
+      internalID: -2285391459939820672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1980
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75addaa035d2f7370800000000000000
+      internalID: 8322420471088667223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1614
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8f444fb83a78030800000000000000
+      internalID: 3496943457170421958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_39
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1980
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f8fc6dcbbb658a0800000000000000
+      internalID: -6316655007608369252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_40
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1614
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36f959d16ea8570800000000000000
+      internalID: 8469835063962330029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_41
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1980
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6842f041d088520800000000000000
+      internalID: 2704425956040541882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_42
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1614
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9318af3b98b2d0e0800000000000000
+      internalID: -2246530287177034849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_43
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1980
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b18933660e9bc00800000000000000
+      internalID: 917010728703499100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_44
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1614
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeaa4dccacd62110800000000000000
+      internalID: 1235917782496489151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_45
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1980
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542518582ef10670800000000000000
+      internalID: 8503357020682134611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_46
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1614
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145b1cad3e7ebb70800000000000000
+      internalID: 8916703115585737752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_47
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1980
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc0d485644ae1c20800000000000000
+      internalID: 3179159009006259449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1216
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d8eb04f84d51c0800000000000000
+      internalID: -4513371038546339809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1583
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d80088374b4c620800000000000000
+      internalID: 2793556077172526371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_50
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1216
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc61cf9477ad7fe0800000000000000
+      internalID: -1189610607217644356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1583
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e907c0f5cd7379f0800000000000000
+      internalID: -471895246842164762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_52
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1216
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627108bf2e4061f80800000000000000
+      internalID: -8136310303869626586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_53
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1583
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd351602baa9d440800000000000000
+      internalID: 4961184146108267967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_54
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1216
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c38f820ce38ac5b0800000000000000
+      internalID: -5347316557870562361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_55
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1583
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307a96a8a659d020800000000000000
+      internalID: 2367018361509539898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_56
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1216
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6acd15adfce820800000000000000
+      internalID: 2949010741632068639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_57
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1583
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbe41735717ca520800000000000000
+      internalID: 2714669423646796764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_58
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1216
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b2bf48d7c18790800000000000000
+      internalID: -7529517370122784085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_59
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1583
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233988b8b08b5e1b0800000000000000
+      internalID: -5627889799604432078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 819
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee588a095ed6b1d10800000000000000
+      internalID: 2097390884212999662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1184
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5421aa6dd1bdc8c80800000000000000
+      internalID: -8319033490458144187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_62
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 819
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5db65a0747c3480800000000000000
+      internalID: -8918125134939957808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_63
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1184
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861032ab3ff69f20800000000000000
+      internalID: 3429208797878425216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_64
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 819
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4bdcec71827d620800000000000000
+      internalID: 2798749776152999101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_65
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1184
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74b578c7d36ec710800000000000000
+      internalID: 1715418286507013244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_66
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 819
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653226b13a9392d0800000000000000
+      internalID: -3273102965868448401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_67
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1184
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0229051cbd6a68c0800000000000000
+      internalID: -4005268264018435573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_68
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 819
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fcc00cd1aae01e0800000000000000
+      internalID: -2229657720748978364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_69
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1184
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c943fff4271c6f60800000000000000
+      internalID: 8028817683375147457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_70
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 819
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a3c84fbb9c65c0800000000000000
+      internalID: -4220827504891156642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_71
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 1184
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2819867b8e609ed10800000000000000
+      internalID: 2155261493252755842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 420
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e039171371351a0800000000000000
+      internalID: -6822083509409870336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 787
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c4e4de9808fd00800000000000000
+      internalID: 1006563994986923087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_74
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 420
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5667023c8bfd540800000000000000
+      internalID: 5034946056626267642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_75
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 787
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a55d1af7f738f20800000000000000
+      internalID: 3423720327884397093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_76
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 420
+        width: 626
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e412f43b3b5a6a0800000000000000
+      internalID: -6438542509548155251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_77
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 787
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eb805ecbeb075d0800000000000000
+      internalID: -3066741627733623144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_78
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 420
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6de4421e96d7550800000000000000
+      internalID: 6160196281010411248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_79
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 787
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f20d57c428d615d0800000000000000
+      internalID: -3092046441668082960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_80
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 420
+        width: 627
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250bb7193f5cd11a0800000000000000
+      internalID: -6837091009370017710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_81
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 787
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f794c9b7455770800000000000000
+      internalID: 8598857926726645887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_82
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 420
+        width: 626
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f2ddcfd763b5c0800000000000000
+      internalID: -4200899816478017636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_83
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 787
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c1ce39566c66f0800000000000000
+      internalID: -690064109403519921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 22
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419fd9120d31851a0800000000000000
+      internalID: -6820679851014489836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 388
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657093306778725b0800000000000000
+      internalID: -5393193087822919850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 22
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134fc4c50320187d0800000000000000
+      internalID: -2918048676829137871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_87
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 388
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3578151966bcfcef0800000000000000
+      internalID: -85626226511607981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_88
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 22
+        width: 626
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400fb4768106c9ba0800000000000000
+      internalID: -6080879738928500732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_89
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 388
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847f7e49dd257d50800000000000000
+      internalID: 6734339229150573702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_90
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 22
+        width: 627
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c537aa298227ef1e0800000000000000
+      internalID: -2162165252506356900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RugIdle_1_S_91
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 388
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506a0382945a70e0800000000000000
+      internalID: -2271410073814540198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

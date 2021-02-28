@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 6d22449309fd30e4c9689f3e4eb01777
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7683791633706084614
+    second: HangedMan_S_0
+  - first:
+      213: 2456985203603139680
+    second: HangedMan_S_1
+  - first:
+      213: 570333155309672704
+    second: HangedMan_S_2
+  - first:
+      213: -2894469433609340192
+    second: HangedMan_S_3
+  - first:
+      213: 3411935481393249009
+    second: HangedMan_S_4
+  - first:
+      213: 7411164805433325253
+    second: HangedMan_S_5
+  - first:
+      213: 3026516492332494211
+    second: HangedMan_S_6
+  - first:
+      213: -5524715095196572964
+    second: HangedMan_S_7
+  - first:
+      213: 3370312638722982982
+    second: HangedMan_S_8
+  - first:
+      213: -3584945168415648791
+    second: HangedMan_S_9
+  - first:
+      213: -6508155963316535171
+    second: HangedMan_S_10
+  - first:
+      213: -4776803432059502510
+    second: HangedMan_S_11
+  - first:
+      213: 3250576749996828673
+    second: HangedMan_S_12
+  - first:
+      213: 1703678487560641101
+    second: HangedMan_S_13
+  - first:
+      213: -2061200575322581224
+    second: HangedMan_S_14
+  - first:
+      213: 812723460935613156
+    second: HangedMan_S_15
+  - first:
+      213: 8695719083741906491
+    second: HangedMan_S_16
+  - first:
+      213: -5940027635687965183
+    second: HangedMan_S_17
+  - first:
+      213: -7415722617321188408
+    second: HangedMan_S_18
+  - first:
+      213: 7810965543072955767
+    second: HangedMan_S_19
+  - first:
+      213: 4641633735846880026
+    second: HangedMan_S_20
+  - first:
+      213: -7610669123013551477
+    second: HangedMan_S_21
+  - first:
+      213: 5802281829735684601
+    second: HangedMan_S_22
+  - first:
+      213: 5806662401565457296
+    second: HangedMan_S_23
+  - first:
+      213: -5959598550594695357
+    second: HangedMan_S_24
+  - first:
+      213: -3560939359434789839
+    second: HangedMan_S_25
+  - first:
+      213: -7994356843237443134
+    second: HangedMan_S_26
+  - first:
+      213: -6711313067074865758
+    second: HangedMan_S_27
+  - first:
+      213: -1000712628008765610
+    second: HangedMan_S_28
+  - first:
+      213: 194230299777524909
+    second: HangedMan_S_29
+  - first:
+      213: 6919859454679065544
+    second: HangedMan_S_30
+  - first:
+      213: 4826352725467179930
+    second: HangedMan_S_31
+  - first:
+      213: 3917793738950050099
+    second: HangedMan_S_32
+  - first:
+      213: 7038475158253174559
+    second: HangedMan_S_33
+  - first:
+      213: 8683340219268102687
+    second: HangedMan_S_34
+  - first:
+      213: 2206039489181910757
+    second: HangedMan_S_35
+  - first:
+      213: 8133972991973857293
+    second: HangedMan_S_36
+  - first:
+      213: 3075047287901899416
+    second: HangedMan_S_37
+  - first:
+      213: -1237349446195420966
+    second: HangedMan_S_38
+  - first:
+      213: 7463975019764993980
+    second: HangedMan_S_39
+  - first:
+      213: 6929634695613682557
+    second: HangedMan_S_40
+  - first:
+      213: 4822827683373348070
+    second: HangedMan_S_41
+  - first:
+      213: 3438297541586103830
+    second: HangedMan_S_42
+  - first:
+      213: 297523422545816953
+    second: HangedMan_S_43
+  - first:
+      213: -7258024094643504247
+    second: HangedMan_S_44
+  - first:
+      213: -2597689137613593304
+    second: HangedMan_S_45
+  - first:
+      213: 2207573563325849445
+    second: HangedMan_S_46
+  - first:
+      213: 9071289024075227943
+    second: HangedMan_S_47
+  - first:
+      213: -1639289228390553292
+    second: HangedMan_S_48
+  - first:
+      213: -2294864551672129367
+    second: HangedMan_S_49
+  - first:
+      213: -1314142722682432698
+    second: HangedMan_S_50
+  - first:
+      213: -6826428669399659455
+    second: HangedMan_S_51
+  - first:
+      213: 5891515350461165764
+    second: HangedMan_S_52
+  - first:
+      213: 8762355538035304947
+    second: HangedMan_S_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HangedMan_S_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1122
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af694d83830bd5590800000000000000
+      internalID: -7683791633706084614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1122
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce7276607f81220800000000000000
+      internalID: 2456985203603139680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1122
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095cd5abfa3ae700800000000000000
+      internalID: 570333155309672704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1122
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea3d7cb267c4d7d0800000000000000
+      internalID: -2894469433609340192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1122
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fafefc3e31a95f20800000000000000
+      internalID: 3411935481393249009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1122
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6fabfdf1fb9d660800000000000000
+      internalID: 7411164805433325253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_6
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1122
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38de650f6b8500a20800000000000000
+      internalID: 3026516492332494211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2e19164e44453b0800000000000000
+      internalID: -5524715095196572964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c71dfc71c5ce20800000000000000
+      internalID: 3370312638722982982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e31559fc57bf3ec0800000000000000
+      internalID: -3584945168415648791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d708daf02a26ea5a0800000000000000
+      internalID: -6508155963316535171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2500a3e469265bdb0800000000000000
+      internalID: -4776803432059502510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10864b2f45e5c1d20800000000000000
+      internalID: 3250576749996828673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_13
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad686de8ea4a710800000000000000
+      internalID: 1703678487560641101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_14
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 935
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81711195ff42563e0800000000000000
+      internalID: -2061200575322581224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea71b58eaf574b00800000000000000
+      internalID: 812723460935613156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36850d4f666da870800000000000000
+      internalID: 8695719083741906491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb0d24658c09da0800000000000000
+      internalID: -5940027635687965183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c39db9d19f061990800000000000000
+      internalID: -7415722617321188408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dfda3f6cf166c60800000000000000
+      internalID: 7810965543072955767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_20
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136f925a456a6040800000000000000
+      internalID: 4641633735846880026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_21
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a5eb371c8716690800000000000000
+      internalID: -7610669123013551477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_22
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 748
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f959141598d58050800000000000000
+      internalID: 5802281829735684601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bfcef60b8659050800000000000000
+      internalID: 5806662401565457296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fcedb81b04b4da0800000000000000
+      internalID: -5959598550594695357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cae2ee480059ec0800000000000000
+      internalID: -3560939359434789839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c97e179ec65e0190800000000000000
+      internalID: -7994356843237443134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b094d250acd2a0800000000000000
+      internalID: -6711313067074865758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573a45ba21cc12f0800000000000000
+      internalID: -1000712628008765610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_29
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46bd6bd6b02b200800000000000000
+      internalID: 194230299777524909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_30
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 561
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c326c3d287480060800000000000000
+      internalID: 6919859454679065544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba5329b36aaf240800000000000000
+      internalID: 4826352725467179930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3310e51f5acce5630800000000000000
+      internalID: 3917793738950050099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f77107ddfada160800000000000000
+      internalID: 7038475158253174559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a76515ceb618870800000000000000
+      internalID: 8683340219268102687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e60c213a3d6d9e10800000000000000
+      internalID: 2206039489181910757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08193f275da1e070800000000000000
+      internalID: 8133972991973857293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_37
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89acbee4733ccaa20800000000000000
+      internalID: 3075047287901899416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_38
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 374
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ee740c3d04dee0800000000000000
+      internalID: -1237349446195420966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4b711cbd559760800000000000000
+      internalID: 7463975019764993980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7396477a020b2060800000000000000
+      internalID: 6929634695613682557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47360c9302ee240800000000000000
+      internalID: 4822827683373348070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea65ea56947bf20800000000000000
+      internalID: 3438297541586103830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da339f9f3012400800000000000000
+      internalID: 297523422545816953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_44
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b3c836a81564b90800000000000000
+      internalID: -7258024094643504247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_45
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a6a31e7723fbd0800000000000000
+      internalID: -2597689137613593304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_46
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 187
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9499a570e2ae10800000000000000
+      internalID: 2207573563325849445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72367ee3e41b3ed70800000000000000
+      internalID: 9071289024075227943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43928a1d1231049e0800000000000000
+      internalID: -1639289228390553292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a852f559d00720e0800000000000000
+      internalID: -2294864551672129367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_50
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435956082a33cde0800000000000000
+      internalID: -1314142722682432698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c04eb0b47a341a0800000000000000
+      internalID: -6826428669399659455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_52
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0bff42ffdd2c150800000000000000
+      internalID: 5891515350461165764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangedMan_S_53
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96548dfe32a9970800000000000000
+      internalID: 8762355538035304947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
