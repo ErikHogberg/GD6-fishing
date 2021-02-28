@@ -32,6 +32,9 @@ TextureImporter:
   - first:
       213: 3555975985611360033
     second: BugsRunning_S_9
+  - first:
+      213: 4036610312557798216
+    second: BugsRunning_S_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -326,6 +329,27 @@ TextureImporter:
       bones: []
       spriteID: 1274f2c815d595130800000000000000
       internalID: 3555975985611360033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugsRunning_S_10
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843afa041bbe40830800000000000000
+      internalID: 4036610312557798216
       vertices: []
       indices: 
       edges: []
