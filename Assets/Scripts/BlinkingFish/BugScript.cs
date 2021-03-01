@@ -23,7 +23,8 @@ public class BugScript : MonoBehaviour {
 		if (AnyHover || BlinkingFishEntityScript.CompareColor(player.CurrentColor, ReactColor)) {
 			Fired = true;
 			Debug.Log("bugs hovered");
-			animator.Play("BugsRunningSAnimation2");
+			// animator.Play("BugsRunningSAnimation2");
+			animator.SetTrigger("Flee");
 		}
 	}
 
