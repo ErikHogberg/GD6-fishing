@@ -55,6 +55,8 @@ public class HangmanScript : MonoBehaviour {
 	}
 
 	void Update() {
+
+
 		if (bloodFadeTimer >= 0) {
 			bloodFadeTimer -= Time.deltaTime * BloodFadeSpeed;
 			if (bloodFadeTimer < 0) {
