@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 7026ebe3f660d7a40978772dfab7d2f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5124534872417058258
+    second: ChestIdle_S_0
+  - first:
+      213: 8019492336049430528
+    second: ChestIdle_S_1
+  - first:
+      213: 8016571370981863341
+    second: ChestIdle_S_2
+  - first:
+      213: -6778920006382904809
+    second: ChestIdle_S_3
+  - first:
+      213: 8069903327500240997
+    second: ChestIdle_S_4
+  - first:
+      213: 3240694564059381941
+    second: ChestIdle_S_5
+  - first:
+      213: 2357674749370293715
+    second: ChestIdle_S_6
+  - first:
+      213: 8075632588245078438
+    second: ChestIdle_S_7
+  - first:
+      213: -763195629858760668
+    second: ChestIdle_S_8
+  - first:
+      213: 2280184073583839409
+    second: ChestIdle_S_9
+  - first:
+      213: 9049973863222741079
+    second: ChestIdle_S_10
+  - first:
+      213: 4868806551432081488
+    second: ChestIdle_S_11
+  - first:
+      213: 5255579649805732576
+    second: ChestIdle_S_12
+  - first:
+      213: 109175588587542940
+    second: ChestIdle_S_13
+  - first:
+      213: -6158775568392803151
+    second: ChestIdle_S_14
+  - first:
+      213: 61545003840968982
+    second: ChestIdle_S_15
+  - first:
+      213: 1942817658832562338
+    second: ChestIdle_S_16
+  - first:
+      213: -1178401121881405976
+    second: ChestIdle_S_17
+  - first:
+      213: 2831749223788797282
+    second: ChestIdle_S_18
+  - first:
+      213: -6997567237454689120
+    second: ChestIdle_S_19
+  - first:
+      213: 5337029595802927791
+    second: ChestIdle_S_20
+  - first:
+      213: 7347943341884756660
+    second: ChestIdle_S_21
+  - first:
+      213: -3557629077657204524
+    second: ChestIdle_S_22
+  - first:
+      213: -3063699777354064980
+    second: ChestIdle_S_23
+  - first:
+      213: 9135932053494408396
+    second: ChestIdle_S_24
+  - first:
+      213: 2189885484968109400
+    second: ChestIdle_S_25
+  - first:
+      213: 4141897544241638703
+    second: ChestIdle_S_26
+  - first:
+      213: -775776414604658459
+    second: ChestIdle_S_27
+  - first:
+      213: 6176133864129247918
+    second: ChestIdle_S_28
+  - first:
+      213: 5542936283629120637
+    second: ChestIdle_S_29
+  - first:
+      213: -3786426208688807794
+    second: ChestIdle_S_30
+  - first:
+      213: 8407364744634655374
+    second: ChestIdle_S_31
+  - first:
+      213: -2747903960957432276
+    second: ChestIdle_S_32
+  - first:
+      213: -5462453687601262348
+    second: ChestIdle_S_33
+  - first:
+      213: -901313131476680362
+    second: ChestIdle_S_34
+  - first:
+      213: -4224942456593705202
+    second: ChestIdle_S_35
+  - first:
+      213: -7436714761111333212
+    second: ChestIdle_S_36
+  - first:
+      213: -8217810970785918508
+    second: ChestIdle_S_37
+  - first:
+      213: -3671598534083755378
+    second: ChestIdle_S_38
+  - first:
+      213: 8460932586418906168
+    second: ChestIdle_S_39
+  - first:
+      213: 6997172367355194239
+    second: ChestIdle_S_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChestIdle_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1850
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3585c0510e1740800000000000000
+      internalID: 5124534872417058258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1850
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a1316ac5fa4f60800000000000000
+      internalID: 8019492336049430528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1850
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafa0f33035904f60800000000000000
+      internalID: 8016571370981863341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1850
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a12c2ab207ce1a0800000000000000
+      internalID: -6778920006382904809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1665
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5680567f15e0eff60800000000000000
+      internalID: 8069903327500240997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1665
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08c4c398249fc20800000000000000
+      internalID: 3240694564059381941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1665
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dddf1c61b428b020800000000000000
+      internalID: 2357674749370293715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1665
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a19aee6d09621070800000000000000
+      internalID: 8075632588245078438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42853244e959865f0800000000000000
+      internalID: -763195629858760668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1480
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c7708557d4af10800000000000000
+      internalID: 2280184073583839409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1480
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75806ff9747f79d70800000000000000
+      internalID: 9049973863222741079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_11
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1480
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050343233c9719340800000000000000
+      internalID: 4868806551432081488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea4173a8d19fe840800000000000000
+      internalID: 5255579649805732576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1295
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9997ef8e9ed38100800000000000000
+      internalID: 109175588587542940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1295
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca79a4042a78aa0800000000000000
+      internalID: -6158775568392803151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1295
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61914abdad6aad000800000000000000
+      internalID: 61545003840968982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a822120e5646fa10800000000000000
+      internalID: 1942817658832562338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1110
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5465f4c6a75afe0800000000000000
+      internalID: -1178401121881405976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1110
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d5be07ae46c4720800000000000000
+      internalID: 2831749223788797282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1110
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac0a971ca5a3ee90800000000000000
+      internalID: -6997567237454689120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2849df320f01a40800000000000000
+      internalID: 5337029595802927791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 925
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2dcb2d98329f560800000000000000
+      internalID: 7347943341884756660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 925
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d844a7f333c0aec0800000000000000
+      internalID: -3557629077657204524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 925
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab1e50e84d8b75d0800000000000000
+      internalID: -3063699777354064980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a3a46cc959ce70800000000000000
+      internalID: 9135932053494408396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 740
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855ee4efe39046e10800000000000000
+      internalID: 2189885484968109400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 740
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de59c2fd9fa7930800000000000000
+      internalID: 4141897544241638703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 740
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8fc5e0673eb35f0800000000000000
+      internalID: -775776414604658459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa3fa0e60906b550800000000000000
+      internalID: 6176133864129247918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 555
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6656ae277cec40800000000000000
+      internalID: 5542936283629120637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 555
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80efdeac69e37bc0800000000000000
+      internalID: -3786426208688807794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 555
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82671de0b5fca470800000000000000
+      internalID: 8407364744634655374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e4e3218eb7dd9d0800000000000000
+      internalID: -2747903960957432276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 370
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0118cff477134b0800000000000000
+      internalID: -5462453687601262348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 370
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65100f67b74ed73f0800000000000000
+      internalID: -901313131476680362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 370
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07144e683dfd55c0800000000000000
+      internalID: -4224942456593705202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a61e00835b7bc890800000000000000
+      internalID: -7436714761111333212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 185
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d15ffe367874fd80800000000000000
+      internalID: -8217810970785918508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 185
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c712169cdb0dc0800000000000000
+      internalID: -3671598534083755378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 185
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834a6020c554b6570800000000000000
+      internalID: 8460932586418906168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestIdle_S_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ba26c0233fa1160800000000000000
+      internalID: 6997172367355194239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

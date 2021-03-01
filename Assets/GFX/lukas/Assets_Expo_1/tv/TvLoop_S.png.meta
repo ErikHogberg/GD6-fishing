@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 94fe4042848ccae438a55ae312bae1e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6840824450386460628
+    second: TvLoop_S_0
+  - first:
+      213: -7263132577901892303
+    second: TvLoop_S_1
+  - first:
+      213: 5515046369345391891
+    second: TvLoop_S_2
+  - first:
+      213: 2083900396067963822
+    second: TvLoop_S_3
+  - first:
+      213: 6532196685558715595
+    second: TvLoop_S_4
+  - first:
+      213: -9195884639196155464
+    second: TvLoop_S_5
+  - first:
+      213: -4169539586996210334
+    second: TvLoop_S_6
+  - first:
+      213: 3567078947591735743
+    second: TvLoop_S_7
+  - first:
+      213: 8294100462479328536
+    second: TvLoop_S_8
+  - first:
+      213: 8712127995577452761
+    second: TvLoop_S_9
+  - first:
+      213: -4362358361971279142
+    second: TvLoop_S_10
+  - first:
+      213: -1809516440870859013
+    second: TvLoop_S_11
+  - first:
+      213: 7859801451476472385
+    second: TvLoop_S_12
+  - first:
+      213: 686972416811783603
+    second: TvLoop_S_13
+  - first:
+      213: 3264462986232870877
+    second: TvLoop_S_14
+  - first:
+      213: 7038966340264943276
+    second: TvLoop_S_15
+  - first:
+      213: 2293903775521666294
+    second: TvLoop_S_16
+  - first:
+      213: -2736896170452695962
+    second: TvLoop_S_17
+  - first:
+      213: -2045904407066548544
+    second: TvLoop_S_18
+  - first:
+      213: -8467989154727239157
+    second: TvLoop_S_19
+  - first:
+      213: -1197496318024983955
+    second: TvLoop_S_20
+  - first:
+      213: 1560749987841512362
+    second: TvLoop_S_21
+  - first:
+      213: -7546137324366428212
+    second: TvLoop_S_22
+  - first:
+      213: -2633866830776896492
+    second: TvLoop_S_23
+  - first:
+      213: 4458796525609638772
+    second: TvLoop_S_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TvLoop_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2272
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2088e718628011a0800000000000000
+      internalID: -6840824450386460628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2272
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d2791f66b243b90800000000000000
+      internalID: -7263132577901892303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_2
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2272
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc3a4f371698c40800000000000000
+      internalID: 5515046369345391891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_3
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2272
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34de68e508bec10800000000000000
+      internalID: 2083900396067963822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_4
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2272
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc416b5c64607aa50800000000000000
+      internalID: 6532196685558715595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1fd3d74a7a16080800000000000000
+      internalID: -9195884639196155464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1704
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265792836d1d226c0800000000000000
+      internalID: -4169539586996210334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_7
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1704
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9caf4576fc08130800000000000000
+      internalID: 3567078947591735743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_8
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1704
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815cb753d609a1370800000000000000
+      internalID: 8294100462479328536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_9
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1704
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8412ec042b7e870800000000000000
+      internalID: 8712127995577452761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3fbbbe2ac573c0800000000000000
+      internalID: -4362358361971279142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1136
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec9ae526e43e6e0800000000000000
+      internalID: -1809516440870859013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_12
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1136
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142da50f6cf931d60800000000000000
+      internalID: 7859801451476472385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_13
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1136
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5de8af5cd988900800000000000000
+      internalID: 686972416811783603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_14
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1136
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd732d44ac3bd4d20800000000000000
+      internalID: 3264462986232870877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5c69a79e6fa160800000000000000
+      internalID: 7038966340264943276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 568
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f475e8845595df10800000000000000
+      internalID: 2293903775521666294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_17
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 568
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644a050f67940ad0800000000000000
+      internalID: -2736896170452695962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_18
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 568
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6646c08cc7b93e0800000000000000
+      internalID: -2045904407066548544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_19
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 568
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026f96aab8ab7a80800000000000000
+      internalID: -8467989154727239157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a58408173a16fe0800000000000000
+      internalID: -1197496318024983955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa31d7048d5e8a510800000000000000
+      internalID: 1560749987841512362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_22
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 0
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc782daa51cb64790800000000000000
+      internalID: -7546137324366428212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_23
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 0
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414fbdd7210a27bd0800000000000000
+      internalID: -2633866830776896492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvLoop_S_24
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 0
+        width: 662
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b55baf0d3d0ed30800000000000000
+      internalID: 4458796525609638772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,6 +10,8 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 		bool ReceiveBlinkEnd(Color color, float time);
 	}
 
+	public static List<BlinkListener> BlinkListeners = new List<BlinkListener>();
+
 	public SpriteRenderer Blinker;
 	private Color initColor;
 
@@ -46,12 +48,18 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 					Blinker.color = item.Color;
 				}
 				// BlinkingFishEntityScript.BroadcastBlink(item.Color);
+				foreach (var listener in BlinkListeners) {
+					listener.ReceiveBlinkStart(Blinker.color);
+				}
 				pressTimer = 0;
 			}
 		}
 
 		if (Input.GetKeyUp(lastPressedKey)) {
-			BlinkingFishEntityScript.BroadcastBlink(Blinker.color, pressTimer);
+			// BlinkingFishEntityScript.BroadcastBlink(Blinker.color, pressTimer);
+			foreach (var item in BlinkListeners) {
+				item.ReceiveBlinkEnd(Blinker.color, pressTimer);
+			}
 			Blinker.color = initColor;
 		}
 	}

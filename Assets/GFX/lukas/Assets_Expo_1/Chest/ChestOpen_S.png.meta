@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 7358e3a446286f643896cda6fbf556ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6752629256810722105
+    second: ChestOpen_S_0
+  - first:
+      213: -6059672374918587968
+    second: ChestOpen_S_1
+  - first:
+      213: -8625822437824786733
+    second: ChestOpen_S_2
+  - first:
+      213: 2075470060655882571
+    second: ChestOpen_S_3
+  - first:
+      213: -4321925005229790544
+    second: ChestOpen_S_4
+  - first:
+      213: 358542371756275018
+    second: ChestOpen_S_5
+  - first:
+      213: -1302836934272341369
+    second: ChestOpen_S_6
+  - first:
+      213: 3591711681341829191
+    second: ChestOpen_S_7
+  - first:
+      213: 4759922555393154047
+    second: ChestOpen_S_8
+  - first:
+      213: 920641416812682612
+    second: ChestOpen_S_9
+  - first:
+      213: 9222929352391025246
+    second: ChestOpen_S_10
+  - first:
+      213: -141763135327693771
+    second: ChestOpen_S_11
+  - first:
+      213: 6415681499416001747
+    second: ChestOpen_S_12
+  - first:
+      213: -8617294825556628898
+    second: ChestOpen_S_13
+  - first:
+      213: -6928758242922368941
+    second: ChestOpen_S_14
+  - first:
+      213: -7050503462010874342
+    second: ChestOpen_S_15
+  - first:
+      213: -6750004819969757453
+    second: ChestOpen_S_16
+  - first:
+      213: -6353599357791210355
+    second: ChestOpen_S_17
+  - first:
+      213: -8228647450555411201
+    second: ChestOpen_S_18
+  - first:
+      213: 3646080100035829983
+    second: ChestOpen_S_19
+  - first:
+      213: 3505572142472282669
+    second: ChestOpen_S_20
+  - first:
+      213: -129848103648660288
+    second: ChestOpen_S_21
+  - first:
+      213: -126950646766315538
+    second: ChestOpen_S_22
+  - first:
+      213: -2415669751632677485
+    second: ChestOpen_S_23
+  - first:
+      213: 3916645808887033628
+    second: ChestOpen_S_24
+  - first:
+      213: 1747251327535289652
+    second: ChestOpen_S_25
+  - first:
+      213: -2064484466729541138
+    second: ChestOpen_S_26
+  - first:
+      213: -2907899147217771597
+    second: ChestOpen_S_27
+  - first:
+      213: -6208601956418407477
+    second: ChestOpen_S_28
+  - first:
+      213: -5971318212390012430
+    second: ChestOpen_S_29
+  - first:
+      213: -2696866588074303812
+    second: ChestOpen_S_30
+  - first:
+      213: 3372199951686270849
+    second: ChestOpen_S_31
+  - first:
+      213: -1466359940826363483
+    second: ChestOpen_S_32
+  - first:
+      213: -9045474580232815721
+    second: ChestOpen_S_33
+  - first:
+      213: -1836986105835542817
+    second: ChestOpen_S_34
+  - first:
+      213: 3264107223384890383
+    second: ChestOpen_S_35
+  - first:
+      213: -4546930427034312159
+    second: ChestOpen_S_36
+  - first:
+      213: 2992793343544851768
+    second: ChestOpen_S_37
+  - first:
+      213: 509216475256383941
+    second: ChestOpen_S_38
+  - first:
+      213: -5356531408121283612
+    second: ChestOpen_S_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChestOpen_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933fc18388826bd50800000000000000
+      internalID: 6752629256810722105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9dabd9418b7eba0800000000000000
+      internalID: -6059672374918587968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0cd1c13cea4880800000000000000
+      internalID: -8625822437824786733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b413a5b160d8dcc10800000000000000
+      internalID: 2075470060655882571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba66653b107504c0800000000000000
+      internalID: -4321925005229790544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_5
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457571336cc9f400800000000000000
+      internalID: 358542371756275018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_6
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a207406b46bede0800000000000000
+      internalID: -1302836934272341369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_7
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 828
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74030069eb258d130800000000000000
+      internalID: 3591711681341829191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb14905854ae0240800000000000000
+      internalID: 4759922555393154047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd1a6ad76c6cc00800000000000000
+      internalID: 920641416812682612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e526acd716d6eff70800000000000000
+      internalID: 9222929352391025246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5341c84fd2b580ef0800000000000000
+      internalID: -141763135327693771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7cbcf454190950800000000000000
+      internalID: 6415681499416001747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_13
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aa2e53308396880800000000000000
+      internalID: -8617294825556628898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_14
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507d04961b18df90800000000000000
+      internalID: -6928758242922368941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_15
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 621
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a161e2bd474972e90800000000000000
+      internalID: -7050503462010874342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2789116a2352a0800000000000000
+      internalID: -6750004819969757453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8474b10c0b73d7a0800000000000000
+      internalID: -6353599357791210355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff498bfadb8fdcd80800000000000000
+      internalID: -8228647450555411201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_19
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0a141888a799230800000000000000
+      internalID: 3646080100035829983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_20
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c09e4a4b46a030800000000000000
+      internalID: 3505572142472282669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_21
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4734376dfa23ef0800000000000000
+      internalID: -129848103648660288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_22
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7dc733f0bfc3ef0800000000000000
+      internalID: -126950646766315538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_23
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 414
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395374fd821d97ed0800000000000000
+      internalID: -2415669751632677485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1febb5ac98ba5630800000000000000
+      internalID: 3916645808887033628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435121733db7f3810800000000000000
+      internalID: 1747251327535289652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1264cc05a7953e0800000000000000
+      internalID: -2064484466729541138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_27
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36c6fd12115a7d0800000000000000
+      internalID: -2907899147217771597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_28
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b2eb4a6d96d9a0800000000000000
+      internalID: -6208601956418407477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_29
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f93ca529bd912da0800000000000000
+      internalID: -5971318212390012430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_30
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe1633702ec29ad0800000000000000
+      internalID: -2696866588074303812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_31
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 207
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f79d74df57cce20800000000000000
+      internalID: 3372199951686270849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98e26276176abe0800000000000000
+      internalID: -1466359940826363483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb5645bc4087280800000000000000
+      internalID: -9045474580232815721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd628589ed6b186e0800000000000000
+      internalID: -1836986105835542817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_35
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c94a6c9307c4d20800000000000000
+      internalID: 3264107223384890383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_36
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12264360ede06e0c0800000000000000
+      internalID: -4546930427034312159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_37
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83df42080b9888920800000000000000
+      internalID: 2992793343544851768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_38
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ee61bfa9111700800000000000000
+      internalID: 509216475256383941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestOpen_S_39
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 0
+        width: 242
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb35be7017c9a5b0800000000000000
+      internalID: -5356531408121283612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
