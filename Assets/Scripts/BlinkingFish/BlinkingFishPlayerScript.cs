@@ -13,12 +13,14 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 	public static List<BlinkListener> BlinkListeners = new List<BlinkListener>();
 
 	public SpriteRenderer Blinker;
+	public SpriteMask Mask;
 	private Color initColor;
 
 	[Serializable]
 	public class KeyColorEntry {
 		public KeyCode Key;
 		public Color Color;
+		public String SortingLayer;
 	}
 
 	public List<KeyColorEntry> KeyColorEntries;
@@ -39,6 +41,7 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 		pressTimer += Time.deltaTime;
 		foreach (var item in KeyColorEntries) {
 			if (Input.GetKeyDown(item.Key)) {
+				Mask.frontSortingLayerID = SortingLayer.NameToID(item.SortingLayer);
 				lastPressedKey = item.Key;
 				if (OverrideAlpha) {
 					Color tempColor = item.Color;
@@ -61,6 +64,7 @@ public class BlinkingFishPlayerScript : MonoBehaviour {
 				item.ReceiveBlinkEnd(Blinker.color, pressTimer);
 			}
 			Blinker.color = initColor;
+			Mask.frontSortingLayerID = SortingLayer.NameToID("Default");
 		}
 	}
 }
