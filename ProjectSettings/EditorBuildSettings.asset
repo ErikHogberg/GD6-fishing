@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/BlinkingFish/BlinkingFishScene.unity
+    path: Assets/Scenes/Prototype3/BlinkingFish/BlinkingFishScene.unity
     guid: 2cad667c31e7e30468dfa7b76f90fdab
   m_configObjects: {}
