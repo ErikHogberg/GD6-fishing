@@ -15,6 +15,8 @@ public class DogPlatformerPlayerScript : MonoBehaviour {
 	public float JumpForce;
 	public float MoveSpeed;
 
+	public float FallVelocityThreshold;
+
 	void Start() {
 		PlayerRB = GetComponent<Rigidbody2D>();
 		leash = GetComponent<DistanceJoint2D>();
