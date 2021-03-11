@@ -1,58 +1,34 @@
 fileFormatVersion: 2
-guid: b92c8b0b6f9bff8418529d12544fd949
+guid: be588d14bab504346b86b794982dcfe1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7908245636592870641
-    second: Wolf_Sitting_Idle_0
+      213: 3489410113714723532
+    second: Wolf_Jump_Up_0
   - first:
-      213: -1071922026099935481
-    second: Wolf_Sitting_Idle_1
+      213: 5876699599629847118
+    second: Wolf_Jump_Up_1
   - first:
-      213: -201152244284752935
-    second: Wolf_Sitting_Idle_2
+      213: -2643157766226256555
+    second: Wolf_Jump_Up_2
   - first:
-      213: -2842064582959118897
-    second: Wolf_Sitting_Idle_3
+      213: 3628925550804894342
+    second: Wolf_Jump_Up_3
   - first:
-      213: 263577547680395112
-    second: Wolf_Sitting_Idle_4
+      213: -3373318824905652114
+    second: Wolf_Jump_Up_4
   - first:
-      213: 2717203059580659464
-    second: Wolf_Sitting_Idle_5
+      213: -2743683339077803334
+    second: Wolf_Jump_Up_5
   - first:
-      213: -1350385096638441256
-    second: Wolf_Sitting_Idle_6
+      213: 1673301469829614903
+    second: Wolf_Jump_Up_6
   - first:
-      213: 239597644506140689
-    second: Wolf_Sitting_Idle_7
+      213: 7105278738336055554
+    second: Wolf_Jump_Up_7
   - first:
-      213: 7665435666370805953
-    second: Wolf_Sitting_Idle_8
-  - first:
-      213: 3743823212211234754
-    second: Wolf_Sitting_Idle_9
-  - first:
-      213: 904061600821504372
-    second: Wolf_Sitting_Idle_10
-  - first:
-      213: -4395740023272315444
-    second: Wolf_Sitting_Idle_11
-  - first:
-      213: 6627345750836925342
-    second: Wolf_Sitting_Idle_12
-  - first:
-      213: -3094338292633906123
-    second: Wolf_Sitting_Idle_13
-  - first:
-      213: -417784422477486664
-    second: Wolf_Sitting_Idle_14
-  - first:
-      213: 2065317382169452157
-    second: Wolf_Sitting_Idle_15
-  - first:
-      213: -7564500778608545956
-    second: Wolf_Sitting_Idle_16
+      213: -3467232376213211936
+    second: Wolf_Jump_Up_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -166,175 +142,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 640
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0b59524e74404290800000000000000
-      internalID: -7908245636592870641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 600
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7077567b894cf11f0800000000000000
-      internalID: -1071922026099935481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 560
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9db72ad791d553df0800000000000000
-      internalID: -201152244284752935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 520
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc5c008d155fe88d0800000000000000
-      internalID: -2842064582959118897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 480
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86f2244126a68a300800000000000000
-      internalID: 263577547680395112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 440
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 807e8ec49c175b520800000000000000
-      internalID: 2717203059580659464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 400
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d852e4c8e7724de0800000000000000
-      internalID: -1350385096638441256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_7
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 360
-        width: 64
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1101fc9c9c8335300800000000000000
-      internalID: 239597644506140689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wolf_Sitting_Idle_8
+      name: Wolf_Jump_Up_0
       rect:
         serializedVersion: 2
         x: 0
@@ -348,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c044a61029116a60800000000000000
-      internalID: 7665435666370805953
+      spriteID: cca1f9fb200ec6030800000000000000
+      internalID: 3489410113714723532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_9
+      name: Wolf_Jump_Up_1
       rect:
         serializedVersion: 2
         x: 0
@@ -369,14 +177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c766b9306bb4f330800000000000000
-      internalID: 3743823212211234754
+      spriteID: e4a0e97562b3e8150800000000000000
+      internalID: 5876699599629847118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_10
+      name: Wolf_Jump_Up_2
       rect:
         serializedVersion: 2
         x: 0
@@ -390,14 +198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 479690c6c3fdb8c00800000000000000
-      internalID: 904061600821504372
+      spriteID: 55dd4c2040e915bd0800000000000000
+      internalID: -2643157766226256555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_11
+      name: Wolf_Jump_Up_3
       rect:
         serializedVersion: 2
         x: 0
@@ -411,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc5e2eb0db13ff2c0800000000000000
-      internalID: -4395740023272315444
+      spriteID: 6828014cf888c5230800000000000000
+      internalID: 3628925550804894342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_12
+      name: Wolf_Jump_Up_4
       rect:
         serializedVersion: 2
         x: 0
@@ -432,14 +240,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e935452e8df09fb50800000000000000
-      internalID: 6627345750836925342
+      spriteID: e684c5fb6609f21d0800000000000000
+      internalID: -3373318824905652114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_13
+      name: Wolf_Jump_Up_5
       rect:
         serializedVersion: 2
         x: 0
@@ -453,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 534daa4a7b3be05d0800000000000000
-      internalID: -3094338292633906123
+      spriteID: ab22c1e2a8a7ce9d0800000000000000
+      internalID: -2743683339077803334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_14
+      name: Wolf_Jump_Up_6
       rect:
         serializedVersion: 2
         x: 0
@@ -474,14 +282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b5a981084bb33af0800000000000000
-      internalID: -417784422477486664
+      spriteID: 73d455f32d2c83710800000000000000
+      internalID: 1673301469829614903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_15
+      name: Wolf_Jump_Up_7
       rect:
         serializedVersion: 2
         x: 0
@@ -495,14 +303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7e56a0773b79ac10800000000000000
-      internalID: 2065317382169452157
+      spriteID: 20108acfd550b9260800000000000000
+      internalID: 7105278738336055554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Sitting_Idle_16
+      name: Wolf_Jump_Up_8
       rect:
         serializedVersion: 2
         x: 0
@@ -516,8 +324,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5f2fdbce9e750790800000000000000
-      internalID: -7564500778608545956
+      spriteID: 0e4f316268ae1efc0800000000000000
+      internalID: -3467232376213211936
       vertices: []
       indices: 
       edges: []
