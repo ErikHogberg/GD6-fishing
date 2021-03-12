@@ -1,79 +1,79 @@
 fileFormatVersion: 2
-guid: 5960750e41e4c4046bc829a61a4a8c88
+guid: 0b8820d56b24ad04b823f41d4489a584
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1501644067805905386
-    second: Wolf_Standing_Idle_0
+      213: 1694913177206695654
+    second: Key_0
   - first:
-      213: -807687776748835884
-    second: Wolf_Standing_Idle_1
+      213: 1349380382610176929
+    second: Key_1
   - first:
-      213: 8660571659190201733
-    second: Wolf_Standing_Idle_2
+      213: -7993208405712638566
+    second: Key_2
   - first:
-      213: 5110856859106875259
-    second: Wolf_Standing_Idle_3
+      213: 6381051765275584983
+    second: Key_3
   - first:
-      213: -1603560798803279994
-    second: Wolf_Standing_Idle_4
+      213: -8101026205411825695
+    second: Key_4
   - first:
-      213: 7898154636806843640
-    second: Wolf_Standing_Idle_5
+      213: -1738318630372558329
+    second: Key_5
   - first:
-      213: -5030692209178668375
-    second: Wolf_Standing_Idle_6
+      213: 8990860109403730403
+    second: Key_6
   - first:
-      213: -5937397203727824339
-    second: Wolf_Standing_Idle_7
+      213: 1727693337792935050
+    second: Key_7
   - first:
-      213: 2084498765039256205
-    second: Wolf_Standing_Idle_8
+      213: -7361770403183060060
+    second: Key_8
   - first:
-      213: 7200927352421369668
-    second: Wolf_Standing_Idle_9
+      213: -6214314221106435875
+    second: Key_9
   - first:
-      213: 8557444411079055255
-    second: Wolf_Standing_Idle_10
+      213: 7354032082012461214
+    second: Key_10
   - first:
-      213: -6625579115902382216
-    second: Wolf_Standing_Idle_11
+      213: -7266807791909604842
+    second: Key_11
   - first:
-      213: 3588668584570590170
-    second: Wolf_Standing_Idle_12
+      213: 2127360546548461396
+    second: Key_12
   - first:
-      213: 7883362172322657931
-    second: Wolf_Standing_Idle_13
+      213: 4723050390418457423
+    second: Key_13
   - first:
-      213: -852111142801783288
-    second: Wolf_Standing_Idle_14
+      213: -3754693688782894677
+    second: Key_14
   - first:
-      213: 5086991447982732322
-    second: Wolf_Standing_Idle_15
+      213: -8961646198830562778
+    second: Key_15
   - first:
-      213: -6034285627206609997
-    second: Wolf_Standing_Idle_16
+      213: -112993102688102086
+    second: Key_16
   - first:
-      213: 8056489793164755233
-    second: Wolf_Standing_Idle_17
+      213: 146156762417531186
+    second: Key_17
   - first:
-      213: -71410075478208776
-    second: Wolf_Standing_Idle_18
+      213: -6624520431464999959
+    second: Key_18
   - first:
-      213: -7705951137374308186
-    second: Wolf_Standing_Idle_19
+      213: -3355020450909385563
+    second: Key_19
   - first:
-      213: 5334199145248987185
-    second: Wolf_Standing_Idle_20
+      213: -1007335685189692541
+    second: Key_20
   - first:
-      213: 7567039294378647333
-    second: Wolf_Standing_Idle_21
+      213: 9079739098713009268
+    second: Key_21
   - first:
-      213: 5383100279276842840
-    second: Wolf_Standing_Idle_22
+      213: -3321032492709711912
+    second: Key_22
   - first:
-      213: 8912255296132573279
-    second: Wolf_Standing_Idle_23
+      213: -1563403990204678935
+    second: Key_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -187,7 +187,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_0
+      name: Key_0
       rect:
         serializedVersion: 2
         x: 0
@@ -195,20 +195,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 30, y: 0, z: 24, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae1c4a8d259e6d410800000000000000
-      internalID: 1501644067805905386
+      spriteID: 6e6a88cfd8a858710800000000000000
+      internalID: 1694913177206695654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_1
+      name: Key_1
       rect:
         serializedVersion: 2
         x: 0
@@ -216,20 +216,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dbe5711f348ac4f0800000000000000
-      internalID: -807687776748835884
+      spriteID: 1ab3c540f46f9b210800000000000000
+      internalID: 1349380382610176929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_2
+      name: Key_2
       rect:
         serializedVersion: 2
         x: 0
@@ -237,20 +237,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58de8d1d908803870800000000000000
-      internalID: 8660571659190201733
+      spriteID: a9de4d90e4b621190800000000000000
+      internalID: -7993208405712638566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_3
+      name: Key_3
       rect:
         serializedVersion: 2
         x: 0
@@ -258,20 +258,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b771fe02c396de640800000000000000
-      internalID: 5110856859106875259
+      spriteID: 7d961a2b5cc0e8850800000000000000
+      internalID: 6381051765275584983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_4
+      name: Key_4
       rect:
         serializedVersion: 2
         x: 0
@@ -279,20 +279,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68fb69313f10fb9e0800000000000000
-      internalID: -1603560798803279994
+      spriteID: 1e72c46569f539f80800000000000000
+      internalID: -8101026205411825695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_5
+      name: Key_5
       rect:
         serializedVersion: 2
         x: 0
@@ -300,20 +300,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fce9f3cbc1eb9d60800000000000000
-      internalID: 7898154636806843640
+      spriteID: 70a333a6a6040e7e0800000000000000
+      internalID: -1738318630372558329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_6
+      name: Key_6
       rect:
         serializedVersion: 2
         x: 0
@@ -321,20 +321,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a29499e6146f2ab0800000000000000
-      internalID: -5030692209178668375
+      spriteID: 3e13d3642a3f5cc70800000000000000
+      internalID: 8990860109403730403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_7
+      name: Key_7
       rect:
         serializedVersion: 2
         x: 0
@@ -342,20 +342,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2ac76d63b02a9da0800000000000000
-      internalID: -5937397203727824339
+      spriteID: a84f4ffdfeff9f710800000000000000
+      internalID: 1727693337792935050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_8
+      name: Key_8
       rect:
         serializedVersion: 2
         x: 0
@@ -363,20 +363,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d82c7e82590adec10800000000000000
-      internalID: 2084498765039256205
+      spriteID: 4ab1a4892dcb5d990800000000000000
+      internalID: -7361770403183060060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_9
+      name: Key_9
       rect:
         serializedVersion: 2
         x: 0
@@ -384,20 +384,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 447487e5645dee360800000000000000
-      internalID: 7200927352421369668
+      spriteID: dd8ea48042252c9a0800000000000000
+      internalID: -6214314221106435875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_10
+      name: Key_10
       rect:
         serializedVersion: 2
         x: 0
@@ -405,20 +405,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 797d4834a5622c670800000000000000
-      internalID: 8557444411079055255
+      spriteID: e98dd2b1735ce0660800000000000000
+      internalID: 7354032082012461214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_11
+      name: Key_11
       rect:
         serializedVersion: 2
         x: 0
@@ -426,20 +426,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87f446dd5e63d04a0800000000000000
-      internalID: -6625579115902382216
+      spriteID: 612ff2080dc172b90800000000000000
+      internalID: -7266807791909604842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_12
+      name: Key_12
       rect:
         serializedVersion: 2
         x: 0
@@ -447,20 +447,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad31fe760138dc130800000000000000
-      internalID: 3588668584570590170
+      spriteID: 45fa3365527e58d10800000000000000
+      internalID: 2127360546548461396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_13
+      name: Key_13
       rect:
         serializedVersion: 2
         x: 0
@@ -468,20 +468,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b863b0db024576d60800000000000000
-      internalID: 7883362172322657931
+      spriteID: f4389296e45ab8140800000000000000
+      internalID: 4723050390418457423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_14
+      name: Key_14
       rect:
         serializedVersion: 2
         x: 0
@@ -489,20 +489,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 806c5282e61bc24f0800000000000000
-      internalID: -852111142801783288
+      spriteID: ba9c1b7bbf5a4ebc0800000000000000
+      internalID: -3754693688782894677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_15
+      name: Key_15
       rect:
         serializedVersion: 2
         x: 0
@@ -510,20 +510,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 224f57815cf989640800000000000000
-      internalID: 5086991447982732322
+      spriteID: 62289f35346d1a380800000000000000
+      internalID: -8961646198830562778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_16
+      name: Key_16
       rect:
         serializedVersion: 2
         x: 0
@@ -531,20 +531,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b3da1d6139e14ca0800000000000000
-      internalID: -6034285627206609997
+      spriteID: a39d43c2f519e6ef0800000000000000
+      internalID: -112993102688102086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_17
+      name: Key_17
       rect:
         serializedVersion: 2
         x: 0
@@ -552,20 +552,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 121452228c66ecf60800000000000000
-      internalID: 8056489793164755233
+      spriteID: 2390b611dc0470200800000000000000
+      internalID: 146156762417531186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_18
+      name: Key_18
       rect:
         serializedVersion: 2
         x: 0
@@ -573,20 +573,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8feccb92aec420ff0800000000000000
-      internalID: -71410075478208776
+      spriteID: 9e3163b04c9f014a0800000000000000
+      internalID: -6624520431464999959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_19
+      name: Key_19
       rect:
         serializedVersion: 2
         x: 0
@@ -594,20 +594,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a87948b446fe0590800000000000000
-      internalID: -7705951137374308186
+      spriteID: 5ac0061fca29071d0800000000000000
+      internalID: -3355020450909385563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_20
+      name: Key_20
       rect:
         serializedVersion: 2
         x: 0
@@ -615,20 +615,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13812cd5cd1e60a40800000000000000
-      internalID: 5334199145248987185
+      spriteID: 38391ba08893502f0800000000000000
+      internalID: -1007335685189692541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_21
+      name: Key_21
       rect:
         serializedVersion: 2
         x: 0
@@ -636,20 +636,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52f9cd67526830960800000000000000
-      internalID: 7567039294378647333
+      spriteID: 47ca3009a96b10e70800000000000000
+      internalID: 9079739098713009268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_22
+      name: Key_22
       rect:
         serializedVersion: 2
         x: 0
@@ -657,20 +657,20 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85f2a90ee2d94ba40800000000000000
-      internalID: 5383100279276842840
+      spriteID: 8dfe1802b8259e1d0800000000000000
+      internalID: -3321032492709711912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wolf_Standing_Idle_23
+      name: Key_23
       rect:
         serializedVersion: 2
         x: 0
@@ -678,14 +678,14 @@ TextureImporter:
         width: 64
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f58639109f0beab70800000000000000
-      internalID: 8912255296132573279
+      spriteID: 9ecfb6baa5cad4ae0800000000000000
+      internalID: -1563403990204678935
       vertices: []
       indices: 
       edges: []

@@ -35,6 +35,7 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 
 	public float LeashLength = 1f;
 
+	[Space]
 	public float JumpForce = 10;
 	public float JumpDelay = .1f;
 	public float JumpDelayIfStanding = .1f;
@@ -42,6 +43,12 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 	public AnimationCurve JumpOffsetCurve;
 	public float JumpOffsetMul = 1;
 	public float JumpMaxHandDistance;
+
+	[Space]
+	public Vector3 RaycastPos;
+	public float RaycastDistance;
+	public LayerMask RaycastMask;
+	public Vector3 TeleportOffset;
 
 	void Start() {
 		DogRB = GetComponent<Rigidbody2D>();
@@ -133,7 +140,7 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 		if (absAngle < 90) {
 			State = DogState.Jumping;
 			timer = JumpDelay;
-			if(Mathf.Abs(DogRB.velocity.x) > 0.1f) 
+			if (Mathf.Abs(DogRB.velocity.x) > 0.1f)
 				timer += JumpDelayIfStanding;
 
 			queuedJumpAngle = angle + 90;
@@ -160,6 +167,32 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 	private void OnMouseDown() {
 		Debug.Log("Petted dog");
 		AddTrust(.1f);
+	}
+
+	private void OnCollisionEnter2D(Collision2D other) {
+		if (other.gameObject.CompareTag("Platform")) {
+			// IDEA: raycast downwards in front of dog to find top of platform
+			float raycastX = Mathf.Abs(RaycastPos.x);
+			if (!dogSprite.flipX) {
+				raycastX = -raycastX;
+			}
+
+			RaycastHit2D hit = Physics2D.Raycast(
+				transform.position + new Vector3(raycastX, RaycastPos.y, 0),
+				Vector2.down,
+				RaycastDistance,
+				RaycastMask
+			);
+
+			if (hit) {
+				// IDEA: check angle of normal hit to only teleport onto horizontal surfaces
+				// hit.normal
+
+				DogRB.MovePosition(
+					hit.point + Vector2.up * dogSprite.bounds.size.y
+				);
+			}
+		}
 	}
 
 	private void OnTriggerEnter2D(Collider2D other) {
