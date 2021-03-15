@@ -13,7 +13,7 @@ public class LongBoiScript : MonoBehaviour {
 
 	bool clicked = false;
 	bool shrinking = false;
-	bool flipShrinkCurve = false;
+	// bool flipShrinkCurve = false;
 
 	public float ExpandTime = 1;
 
@@ -38,10 +38,17 @@ public class LongBoiScript : MonoBehaviour {
 		if (shrinking) {
 			// TODO: shrink doggo
 			float width = initWidth + (TargetWidth - initWidth);
-			Vector2 size = new Vector2(width * t, dogRenderer.size.y);
+			Vector2 size = new Vector2(width * t - initWidth * (t-1), dogRenderer.size.y);
 			dogRenderer.size = size;
 			Vector3 pos = dogRenderer.transform.localPosition;
-			pos.x = initX + (width + width * (1 - t)) * dogRenderer.transform.localScale.x;
+			pos.x = initX + 
+			(
+				width + 
+				 width * (1 - t)
+			) * dogRenderer.transform.localScale.x * .5f
+			 - initWidth * dogRenderer.transform.localScale.x * 0.5f
+			 - initWidth * dogRenderer.transform.localScale.x * (1-t) * .5f
+			;
 			dogRenderer.transform.localPosition = pos;
 		} else {
 			// TODO: E X P A N D doggo
@@ -49,7 +56,7 @@ public class LongBoiScript : MonoBehaviour {
 			Vector2 size = new Vector2(width, dogRenderer.size.y);
 			dogRenderer.size = size;
 			Vector3 pos = dogRenderer.transform.localPosition;
-			pos.x = initX + width * dogRenderer.transform.localScale.x;
+			pos.x = initX + width * dogRenderer.transform.localScale.x * .5f - initWidth * dogRenderer.transform.localScale.x * 0.5f;
 			dogRenderer.transform.localPosition = pos;
 
 		}

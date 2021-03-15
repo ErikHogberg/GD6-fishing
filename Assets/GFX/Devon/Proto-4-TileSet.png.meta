@@ -236,12 +236,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 48
+        y: 16
         width: 16
-        height: 16
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 16, z: 0, w: 16}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -337,27 +337,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Proto-4-TileSet_11
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 602bfc969510ae840800000000000000
-      internalID: 5254013398820041222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Proto-4-TileSet_12
       rect:
         serializedVersion: 2
@@ -437,27 +416,6 @@ TextureImporter:
       bones: []
       spriteID: 5503f09cd2ee30f70800000000000000
       internalID: 9152420748161134677
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Proto-4-TileSet_19
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ea96921c21c53910800000000000000
-      internalID: 1816570419748444899
       vertices: []
       indices: 
       edges: []

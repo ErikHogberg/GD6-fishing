@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class DogPlatformerKeyScript : MonoBehaviour {
 
-	public static List<string> Inventory = new List<string>();
+	// public static List<string> Inventory = new List<string>();
 
-	public string Name;
+	// public string Name;
+	public DoorScript DoorToOpen;
 
-	void Start() {
-
-	}
 
 	private void OnTriggerEnter2D(Collider2D other) {
-		Inventory.Add(Name);
-		Destroy(this);
+		// Inventory.Add(Name);
+		// Destroy(this);
+		DoorToOpen?.Open();
+		gameObject.SetActive(false);
 	}
 }

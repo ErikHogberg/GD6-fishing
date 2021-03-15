@@ -8,6 +8,9 @@ TagManager:
   - Squirrel
   - Snake
   - Platform
+  - Ledge
+  - FallDamage
+  - Reset
   layers:
   - Default
   - TransparentFX
@@ -24,9 +27,9 @@ TagManager:
   - PlayerHand
   - Leash
   - Platform
-  - 
-  - 
-  - 
+  - InvisibleCollider
+  - Mouse
+  - CameraBorder
   - 
   - 
   - 
