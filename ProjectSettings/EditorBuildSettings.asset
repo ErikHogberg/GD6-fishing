@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Prototype3/BlinkingFish/BlinkingFishScene.unity
-    guid: 2cad667c31e7e30468dfa7b76f90fdab
+    path: Assets/Scenes/Prototype4/HandVersionDogPlatformerScene.unity
+    guid: bf497267cc79d1047b0747d5b9c7a40a
+  - enabled: 1
+    path: Assets/Scenes/Prototype4/level2.unity
+    guid: a4938871844ea484f854506fd5e85ff4
+  - enabled: 1
+    path: Assets/Scenes/Prototype4/LongBoiScene.unity
+    guid: 7e48844aa13641e4daa96471792cd88c
   m_configObjects: {}

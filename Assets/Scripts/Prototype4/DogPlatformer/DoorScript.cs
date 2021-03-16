@@ -23,7 +23,7 @@ public class DoorScript : MonoBehaviour {
 	}
 
 	private void OnTriggerEnter2D(Collider2D other) {
-		if (Opened)
+		if (Opened && LevelName != "")
 			SceneManager.LoadScene(LevelName);
 	}
 }

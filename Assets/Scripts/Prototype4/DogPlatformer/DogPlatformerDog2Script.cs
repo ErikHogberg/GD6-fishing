@@ -10,7 +10,8 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 
 	public enum DogState {
 		Normal,
-		Distracted,
+		// Distracted,
+		Fear,
 		Exhausted,
 		Jumping
 	}
@@ -23,6 +24,7 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 	private SpriteRenderer dogSprite;
 	private Animator dogAnimator;
 	private Color initColor;
+	private Vector3 initPos;
 
 	public bool Follow = true;
 	public float FollowDistance;
@@ -78,6 +80,7 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 		dogSprite = GetComponent<SpriteRenderer>();
 		dogAnimator = GetComponent<Animator>();
 		initColor = dogSprite.color;
+		initPos = transform.position;
 
 		if (Leash)
 			leashInitWidth = Leash.size.x;
@@ -92,7 +95,7 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 			if (timer <= 0) {
 				switch (State) {
 					case DogState.Normal:
-					case DogState.Distracted:
+					// case DogState.Distracted:
 					case DogState.Exhausted:
 						break;
 					case DogState.Jumping:
@@ -120,6 +123,10 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 		} else if (Input.GetKeyDown(KeyCode.Alpha2)) {
 			AddTrust(.05f);
 		}
+
+		if (Input.GetKeyDown(KeyCode.R)) {
+			transform.position = initPos;
+		}
 	}
 
 	private void FixedUpdate() {
@@ -146,6 +153,17 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 		}
 
 		Vector2 delta = Player.transform.position - transform.position;
+
+		if (State == DogState.Fear) {
+			if (delta.x < 0) {
+				dogSprite.flipX = false;
+				dogAnimator.SetBool("Sitting", false);
+				State = DogState.Normal;
+			} else if (delta.x > 0) {
+				dogSprite.flipX = true;
+			}
+		}
+
 		// float sqrDistance = delta.sqrMagnitude;
 		if (delta.y > LeashLength) {
 			// TODO: lose trust when lifting dog off ground with leash
@@ -174,7 +192,8 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 		}
 
 		if (trust > GrumpyThreshold
-		&& State != DogState.Jumping
+		&& State == DogState.Normal
+		// && State != DogState.Jumping
 		&& Follow
 		&& FollowDistance * FollowDistance < (transform.position - Player.transform.position).sqrMagnitude
 		) {
@@ -185,7 +204,6 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 	public void SendCommand(float angle, float sqrDistance) {
 		Debug.Log("Dog got command with angle " + angle);
 
-		// TODO: branch depending on trust level
 
 		float absAngle = Mathf.Abs(angle);
 
@@ -207,7 +225,6 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 			queuedJumpAngle += offsetEval * JumpOffsetMul * Mathf.Sign(angle);
 
 			dogAnimator.SetTrigger("Jump");
-			// TODO: trigger landing animation on touching ground
 
 		}
 
@@ -256,6 +273,7 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 			if (trust < DistractedThreshold)
 				AddTrust(DistractedThreshold - trust + .01f);
 			dogAnimator.SetBool("Sitting", false);
+			State = DogState.Normal;
 		}
 
 		if (trust < GrumpyThreshold)
@@ -307,6 +325,8 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 			}
 		} else if (other.CompareTag("FallDamage")) {
 			AddTrust(-.2f);
+		} else if (other.CompareTag("Reset")) {
+			transform.position = initPos;
 		}
 	}
 
@@ -318,8 +338,17 @@ public class DogPlatformerDog2Script : MonoBehaviour {
 	// }
 
 	private void OnTriggerStay2D(Collider2D other) {
-		if (trust < .3f && other.CompareTag("Squirrel")) {
-			// distracted = true;
+		// if (trust < .3f && other.CompareTag("Squirrel")) {
+		// distracted = true;
+		// }else 
+		if (other.CompareTag("Ledge") && trust < FearThreshold) {
+			if (dogSprite.flipX) {
+				dogAnimator.SetBool("Sitting", true);
+				State = DogState.Fear;
+			// } else {
+			// 	dogAnimator.SetBool("Sitting", false);
+			// 	State = DogState.Normal;
+			}
 		}
 	}
 
