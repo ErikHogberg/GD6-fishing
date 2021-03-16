@@ -37,17 +37,6 @@ public class DogPlatfomerUIScript : MonoBehaviour {
 		}
 	}
 
-	// float percentage = 1;
-	// void Update() {
-	// 	if (Input.GetKeyDown(KeyCode.Alpha1)) {
-	// 		percentage *= 1.2f;
-	// 		SetBarPercent(percentage);
-	// 	} else if (Input.GetKeyDown(KeyCode.Alpha2)) {
-	// 		percentage *= 0.8f;
-	// 		SetBarPercent(percentage);
-	// 	}
-	// }
-
 	private void Update() {
 		if (fillBuffer != targetTrust) {
 			fillBuffer = Mathf.MoveTowards(fillBuffer, targetTrust, FillSpeed * Time.deltaTime);

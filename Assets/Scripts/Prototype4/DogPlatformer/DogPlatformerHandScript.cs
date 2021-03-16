@@ -6,6 +6,7 @@ public class DogPlatformerHandScript : MonoBehaviour {
 
 	public DogPlatformerDog2Script Dog;
 
+	public Animator HandAnimator;
 	public float MinCommandDistance;
 
 	void Start() {
@@ -21,5 +22,9 @@ public class DogPlatformerHandScript : MonoBehaviour {
 				Dog.SendCommand(angle, sqrDistance);
 			}
 		}
+	}
+
+	public void Pet(){
+		HandAnimator?.SetTrigger("Pet");
 	}
 }

@@ -11,9 +11,9 @@ public class LongBoiScript : MonoBehaviour {
 
 	float timer = -1;
 
-	bool clicked = false;
 	bool shrinking = false;
 	// bool flipShrinkCurve = false;
+	bool clickable = true;
 
 	public float ExpandTime = 1;
 
@@ -66,6 +66,9 @@ public class LongBoiScript : MonoBehaviour {
 		if (shrinking) {
 			// TODO: trigger "you win" thingie
 			WinEvent.Invoke();
+			clickable = true;
+			shrinking = false;
+			initX = dogRenderer.transform.localPosition.x;
 		} else {
 			shrinking = true;
 			timer = ExpandTime;
@@ -74,9 +77,9 @@ public class LongBoiScript : MonoBehaviour {
 	}
 
 	private void OnMouseDown() {
-		if (clicked) return;
+		if (!clickable) return;
 
-		clicked = true;
+		clickable = false;
 		timer = ExpandTime;
 	}
 

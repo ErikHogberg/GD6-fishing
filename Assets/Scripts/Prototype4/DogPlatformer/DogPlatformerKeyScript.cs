@@ -13,6 +13,9 @@ public class DogPlatformerKeyScript : MonoBehaviour {
 	private void OnTriggerEnter2D(Collider2D other) {
 		// Inventory.Add(Name);
 		// Destroy(this);
+
+		if (other.GetComponent<DogPlatformerDog2Script>().IsPanicking) return;
+
 		DoorToOpen?.Open();
 		gameObject.SetActive(false);
 	}

@@ -25,4 +25,10 @@ public class DogPlatformerSquirrelScript : MonoBehaviour
 			squirrelRB.AddForce(Vector2.right * Mathf.Sign(Random.Range(-1f,1f)) * MoveForce, ForceMode2D.Impulse);
 		}
     }
+
+	// private void OnTriggerEnter2D(Collider2D other) {
+	// 	if(other.CompareTag("Dog")){
+	// 		other.GetComponent<DogPlatformerDog2Script>().Distract(gameObject);
+	// 	}
+	// }
 }
